@@ -29,8 +29,7 @@ done = time.time()
 elapsed = done - start
 print("Time taken ",elapsed)
 
-with concurrent.futures.ProcessPoolExecutor() as executor:
-    comb_np_array = np.vstack(np_array_list)
-    big_frame = pd.DataFrame(comb_np_array, columns=['id', 'text', 'title', 'url','filename'])
-    
-    print(big_frame.head(2)['filename'])
+comb_np_array = np.vstack(np_array_list)
+big_frame = pd.DataFrame(comb_np_array, columns=['id', 'text', 'title', 'url','filename'])
+
+print(big_frame.head(2)['filename'])
