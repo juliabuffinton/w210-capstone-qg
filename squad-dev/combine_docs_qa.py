@@ -16,5 +16,10 @@ for key, value in docs_qs.items():
 				qa[value[q][‘question’]] = v
 	docs_qa[key] = qa
 
-with open('doc_qa-squad-dev.txt','w') as file:
-  file.write(json.dumps(docs_qa))
+# with open('doc_qa-squad-dev.txt','w') as file:
+#   file.write(json.dumps(docs_qa))
+
+df = pd.DataFrame(columns =['text','qas'])
+df['text'] = list(docs_qa.keys())
+df['qas'] = list(docs_qa.values())
+df.to_csv('docs_qa.csv')
