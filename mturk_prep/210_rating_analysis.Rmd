@@ -1,0 +1,80 @@
+---
+title: "R Notebook"
+output: pdf_document
+---
+
+Unpaired Two-Samples T-Test http://www.sthda.com/english/wiki/unpaired-two-samples-t-test-in-r
+
+```{r}
+data <- read.csv('/Users/joannahuang/Downloads/w210-capstone-qg-master/mturk_prep/All_results.csv')
+head(data)
+```
+
+```{r}
+qgen <- data[data$Qgen==TRUE,]
+squad <- data[data$Qgen==FALSE,]
+```
+
+```{r}
+library(dplyr)
+library(tidyr)
+data.summary <- group_by(data,Qgen) %>%
+  select(Clarity,Fluency) %>% # select variables to summarise
+  summarise_each(funs(median = median,
+                      mean = mean, 
+                      sd = sd))
+
+data.summary
+```
+```{r}
+# Plot weight by group and color by group
+library("ggpubr")
+ggboxplot(data, x = "Qgen", y = "Clarity", 
+          color = "Qgen", palette = c("#00AFBB", "#E7B800"),
+        ylab = "Clarity", xlab = "Qgen")
+ggboxplot(data, x = "Qgen", y = "Fluency", 
+          color = "Qgen", palette = c("#00AFBB", "#E7B800"),
+        ylab = "Fluency", xlab = "Qgen")
+```
+
+Preleminary test to check independent t-test assumptions
+- Assumption 1: Are the two samples independents?
+- Assumtion 2: Are the data from each of the 2 groups follow a normal distribution?
+- Assumption 3. Do the two populations have the same variances?
+
+Use Shapiro-Wilk normality test: Null hypothesis: the data are normally distributed - Alternative hypothesis: the data are not normally distributed
+```{r}
+# Shapiro-Wilk normality test for Qgen's Clarity
+with(data, shapiro.test(Clarity[Qgen == TRUE]))
+# Shapiro-Wilk normality test for Non-Qgens's Clarity
+with(data, shapiro.test(Clarity[Qgen == FALSE]))
+# Shapiro-Wilk normality test for Qgen's Fluency
+with(data, shapiro.test(Fluency[Qgen == TRUE]))
+# Shapiro-Wilk normality test for Non-Qgens's Fluency
+with(data, shapiro.test(Fluency[Qgen == FALSE]))
+```
+From the output, the two p-values are less than the significance level 0.05 implying that the distribution of the data are significantly different from the normal distribution so we cannot assume normality for the Clarity or Fluency distributions.
+```{r}
+# Use F-test to test for homogeneity in variances
+print(var.test(Clarity ~ Qgen, data = data))
+print(var.test(Fluency ~ Qgen, data = data))
+```
+The p-value of F-test is less than the significance level alpha = 0.05. Therefore, there is a significant difference between the variances of the two sets of data. 
+
+Since the variances of the two groups being compared are different (heteroscedasticity), we use the Welch t test, an adaptation of Student t-test that takes into account the variance of each of the two groups.
+```{r}
+print(t.test(qgen$Clarity, squad$Clarity, var.equal=FALSE))
+print(t.test(qgen$Fluency, squad$Fluency, var.equal=FALSE))
+```
+Both differences are statistically significant.
+
+Inter-rater reliability: http://www.cookbook-r.com/Statistical_analysis/Inter-rater_reliability/
+https://dkpro.github.io/dkpro-statistics/inter-rater-agreement-tutorial.pdf 
+```{r}
+library(irr)
+data %>%
+  group_by(WorkerId) %>%
+  summarize(n())
+```
+
+
