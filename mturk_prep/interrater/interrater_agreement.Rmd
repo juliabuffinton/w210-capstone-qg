@@ -1,0 +1,48 @@
+---
+title: "Inter-Rater Agreement"
+output: html_notebook
+---
+
+Inter-rater reliability: http://www.cookbook-r.com/Statistical_analysis/Inter-rater_reliability/
+https://dkpro.github.io/dkpro-statistics/inter-rater-agreement-tutorial.pdf 
+https://www.statisticshowto.datasciencecentral.com/inter-rater-reliability/ 
+
+```{r}
+library(irr)
+clarity <- read.csv('/Users/joannahuang/Downloads/Clarity_Eval.csv')
+fluency <- read.csv('/Users/joannahuang/Downloads/fluency.csv')
+grammaticality <- read.csv('/Users/joannahuang/Downloads/grammaticality.csv')
+answer_existence <- read.csv('/Users/joannahuang/Downloads/answer_existence.csv')
+```
+
+```{r}
+head(answer_existence)
+```
+
+```{r}
+prep_clarity = clarity[-c(1,2, 203),]
+prep_fluency = fluency[-c(1,2, 203),]
+prep_gram = grammaticality[-c(1,2, 203),]
+prep_answer = answer_existence[-c(1,2, 203),]
+rownames(prep_clarity) <- prep_clarity$SUM.of.Clarity
+rownames(prep_fluency) <- prep_fluency$SUM.of.Fluency
+rownames(prep_gram) <- prep_gram$SUM.of.Grammatical_Num
+rownames(prep_answer) <- prep_answer$SUM.of.Present_Num
+prep_clarity = subset(prep_clarity, select = -c(SUM.of.Clarity,WorkerId,X.38))
+prep_fluency = subset(prep_fluency, select = -c(SUM.of.Fluency,WorkerId,X.38))
+prep_gram = subset(prep_gram, select = -c(SUM.of.Grammatical_Num,WorkerId,X.38))
+prep_answer = subset(prep_answer, select = -c(SUM.of.Present_Num,WorkerId,X.38))
+head(prep_answer)
+#write.csv(prep, file = "processed_clarity.csv")
+```
+
+```{r}
+# The basic idea is to consider each pairwise agreement of raters
+# and average over all items i
+kappam.fleiss(prep_clarity, detail=TRUE)
+kappam.fleiss(prep_fluency, detail=TRUE)
+kappam.fleiss(prep_gram, detail=TRUE)
+kappam.fleiss(prep_answer, detail=TRUE)
+```
+
+Potential reason for low Kappa: In short, a lack of heterogeneity produces a high estimate of chance agreement given the kappa coefficient's assumptions. This, in turn, produces a lower kappa score. https://stats.stackexchange.com/questions/153225/why-does-fleisss-kappa-decrease-with-increased-response-homogeneity
