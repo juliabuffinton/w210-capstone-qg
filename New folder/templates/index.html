@@ -1,0 +1,33 @@
+<!doctype html>
+<title>AutoQ</title>
+<link rel=stylesheet type=text/css href="{{ url_for('static', filename='style.css') }}">
+<h1>AutoQ<br>
+<img src = "{{url_for('static', filename='white-transparent_background.svg')}}" alt = "no logo" style="width:128px;height:128px;"></h1>
+<div class = "tagline">
+  <h2>Improving reading comprehension through automatic question generation</h2>
+</div>
+<br>
+<div class = "intro">
+  <p class="intro">This site is designed to help improve reading comprehension for English-language learners. Starting with the articles from Wikipedia, we have developed algorithms to produce reading comprehension questions designed to mimic the style of questions seen on the TOEFL exam. Improving reading comprehension stems from practice on new material. <br>
+    To get started, you can choose a topic, or you can allow us to choose a random topic for you.</p>
+</div>
+<div class = "topic_select">
+<form name = "topic_select" action = "/topic_select" />
+  <input type="submit" value = "Get Started" method = "get"/>
+</form>
+</div>
+<br>
+<div class="row">
+  <div class="column">
+    <h2>About Us</h2>
+    <p>Some text..</p>
+  </div>
+  <div class="column">
+    <h2>Our Project</h2>
+    <p>Some text..</p>
+  </div>
+  <div class="column">
+    <h2>Evaluation</h2>
+    <p>Some text..</p>
+  </div>
+</div>

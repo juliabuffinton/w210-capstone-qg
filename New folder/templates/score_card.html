@@ -1,0 +1,36 @@
+<!doctype html>
+<title>Checking Results</title>
+<link rel=stylesheet type=text/css href="{{ url_for('static', filename='style.css') }}">
+<div class = centered>
+<div class=page>
+  <h1>Score Card</h1>
+</div>
+<div class = tables>
+<table class=answer_table>
+  <tr>
+    <th>Number of Questions Seen</th>
+    <th>{{ num_corr + num_wrong + num_blank }}</th>
+  </tr>
+  <tr>
+    <th>Number of Correct Answers </th>
+    <th>{{ num_corr }}</th>
+  </tr>
+  <tr>
+    <th>Number of Incorrect Answers</th>
+    <th>{{ num_wrong}}</th>
+  </tr>
+  <tr>
+    <th>Number of Questions Left Blank</th>
+    <th>{{ num_blank }}</th>
+  </tr>
+</table>
+</div>
+
+<form name = "same_topic" action = "/article" />
+  <input type="submit" value = "More Questions on this Topic" method = "get"/>
+</form>
+<br>
+<form name = "change_topic" action = "/topic_select" />
+  <input type = "submit" value = "Change Topics" method = "get"/>
+</form>
+</div>

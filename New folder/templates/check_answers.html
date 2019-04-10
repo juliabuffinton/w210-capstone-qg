@@ -1,0 +1,44 @@
+<!doctype html>
+<title>Checking Results</title>
+<link rel=stylesheet type=text/css href="{{ url_for('static', filename='style.css') }}">
+<div class=page>
+  <h1>{{ title }} Results</h1>
+</div>
+<div class = centered>
+<div class = tables>
+<table class=answer_table>
+  <tr>
+    <th>Question</th>
+    <th>Your Answer</th>
+    <th>Correct?</th>
+    <th>Correct Answer</th>
+    <th>Bad Question?</th>
+  </tr>
+  {% for q in questions %}
+    <tr>
+      <th>{{ q_list[q] }}</th>
+      <th>{{ answers[q] }} </th>
+      <th class = "{{answer_color[q]}}">{{ correct[q] }} </th>
+      <th>{{ correct_answers[q]}}</th>
+      <th><form name = "score_card" action = "/score" method = "post">
+        <input type="radio" name="{{ radio_buttons[q] }}" value="{{ q }}">
+      <!-- </form> -->
+      </th>
+    </tr>
+  {% endfor %}
+</table>
+<br>
+<!-- <form name = "score_card" action = "/api/v3/score" /> -->
+  <input type="submit" value = "Go to Score Card" method = "get"/>
+</form>
+<br>
+<form name = "same_topic" action = "/article" />
+  <input type="submit" value = "More Questions on this Topic" method = "get"/>
+</form>
+</div>
+<div class = short_article>
+  {% for para in article %}
+    <p class= "article_text black">{{ para }}</p>
+  {% endfor %}
+</div>
+</div>
