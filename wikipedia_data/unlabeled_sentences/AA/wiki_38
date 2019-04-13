@@ -1,0 +1,410 @@
+however ,  the catholic church has achieved union with various smaller eastern churches . 
+over a period stretching from the 7th to the 13th century ,  the christian church underwent gradual alienation that resulted in a schism dividing it into a so-called latin or western christian branch ,  the catholic church ,  and an eastern ,  largely greek ,  branch ,  the orthodox church . 
+today ,  the four largest branches of christianity are the catholic church  -lrb-  1.3 billion  -rrb-  ,  protestantism  -lrb-  920 million  -rrb-  ,  the eastern orthodox church  -lrb-  260 million  -rrb-  and oriental orthodoxy  -lrb-  86 million  -rrb-  . 
+the creed was apparently used as a summary of christian doctrine for baptismal candidates in the churches of rome . 
+the middle ages brought about major changes within the church . 
+the later rise of islam in north africa reduced the size and numbers of christian congregations ,  leaving in large numbers only the coptic church in egypt ,  the ethiopian orthodox tewahedo church in the horn of africa and the nubian church in the sudan  -lrb-  nobatia ,  makuria and alodia  -rrb-  . 
+king trdat iv made christianity the state religion in armenia between 301 and 314.
+from at least the 4th century ,  christianity has played a prominent role in the shaping of western civilization . 
+christianity has been an important part of the shaping of western civilization ,  at least since the 4th century . 
+in the early 10th century ,  western christian monasticism was further rejuvenated through the leadership of the great benedictine monastery of cluny . 
+finally ,  separation between religion  -lrb-  again ,  specifically catholicism  -rrb-  and the state is found to a great degree in france and italy ,  countries where the state actively opposed itself to the authority of the catholic church . 
+because of these irreconcilable differences in theology and a lack of consensus on the core tenets of christianity ,  catholics ,  protestants and eastern orthodox christians often deny that members of certain other branches are christians . 
+the assyrian church of the east did not accept the third and following ecumenical councils and is still separate today . 
+constantine was also instrumental in the convocation of the first council of nicaea in 325, which sought to address arianism and formulated the nicene creed ,  which is still used by the catholic church ,  eastern orthodoxy ,  anglican communion ,  and many protestant churches . 
+major computing disciplines include computer engineering ,  software engineering ,  computer science ,  information systems ,  and information technology . 
+some casinos are also known for hosting live entertainment events ,  such as stand-up comedy ,  concerts ,  and sporting events . 
+the vast majority of khmer speakers speak central khmer ,  the dialect of the central plain where the khmer are most heavily concentrated . 
+khmer krom or southern khmer is spoken by the indigenous khmer population of the mekong delta ,  formerly controlled by the khmer empire but part of vietnam since 1698.
+khmer once had a phonation distinction in its vowels ,  but this now survives only in the most archaic dialect  -lrb-  western khmer  -rrb-  . 
+khmer krom ,  or southern khmer ,  is the first language of the khmer of vietnam while the khmer living in the remote cardamom mountains speak a very conservative dialect that still displays features of the middle khmer language . 
+stress in khmer falls on the final syllable of a word . 
+northern khmer  -lrb-  called `` khmer surin '' in khmer  -rrb-  refers to the dialects spoken by many in several border provinces of present-day northeast thailand . 
+approximately 79% of cambodians are able to read khmer . 
+lexical categories have been hard to define in khmer . 
+khmer is primarily an analytic ,  isolating language . 
+khmer is primarily an analytic language with no inflection . 
+most khmer words consist of either one or two syllables . 
+khmer is spoken by some 13 million people in cambodia ,  where it is the official language . 
+phnom penh khmer is spoken in the capital and surrounding areas . 
+just as modern khmer was emerging from the transitional period represented by middle khmer ,  cambodia fell under the influence of french colonialism . 
+western khmer ,  also called cardamom khmer or chanthaburi khmer ,  is spoken by a very small ,  isolated population in the cardamom mountain range extending from western cambodia into eastern central thailand . 
+the instruction that the cpu fetches from memory determines what the cpu will do . 
+to ensure proper operation of the cpu ,  the clock period is longer than the maximum time needed for all signals to propagate  -lrb-  move  -rrb-  through the cpu . 
+the frequency of the clock pulses determines the rate at which a cpu executes instructions and ,  consequently ,  the faster the clock ,  the more instructions the cpu will execute each second . 
+the description of the basic operation of a cpu offered in the previous section describes the simplest form that a cpu can take . 
+this type of cpu ,  usually referred to as `` subscalar '' ,  operates on and executes one instruction on one or two pieces of data at a time ,  that is less than one instruction per clock cycle  -lrb-    -rrb-  . 
+most cpus are synchronous circuits ,  which means they employ a clock signal to pace their sequential operations . 
+therefore ,  as clock rate increases ,  so does energy consumption ,  causing the cpu to require more heat dissipation in the form of cpu cooling solutions . 
+in some cpu designs the instruction decoder is implemented as a hardwired ,  unchangeable circuit . 
+this process gives rise to an inherent inefficiency in subscalar cpus . 
+most of the difficulty in the design of a superscalar cpu architecture lies in creating an effective dispatcher . 
+most modern cpus are microprocessors ,  meaning they are contained on a single integrated circuit  -lrb-  ic  -rrb-  chip . 
+the actual mathematical operation for each instruction is performed by a combinational logic circuit within the cpu's processor known as the arithmetic logic unit or alu . 
+when referring to parallelism in cpus ,  two terms are generally used to classify these design techniques:
+hardwired into a cpu's circuitry is a set of basic operations it can perform ,  called an instruction set . 
+every cpu represents numerical values in a specific way . 
+related to numeric representation is the size and precision of integer numbers that a cpu can represent . 
+another type of mt is simultaneous multithreading ,  where instructions from multiple threads are executed in parallel within one cpu clock cycle . 
+most modern cpus are primarily von neumann in design ,  but cpus with the harvard architecture are seen as well ,  especially in embedded applications; for instance ,  the atmel avr microcontrollers are harvard architecture processors . 
+early cpus were custom designs used as part of a larger and sometimes distinctive computer . 
+the way in which the instruction is interpreted is defined by the cpu's instruction set architecture  -lrb-  isa  -rrb-  . 
+both simple pipelining and superscalar design increase a cpu's ilp by allowing a single processor to complete execution of instructions at rates surpassing one instruction per clock cycle . 
+by the early 2000s ,  cpu designers were thwarted from achieving higher performance from ilp techniques due to the growing disparity between cpu operating frequencies and main memory operating frequencies as well as escalating cpu power dissipation owing to more esoteric ilp techniques . 
+in the case where a portion of the cpu is superscalar and part is not ,  the part which is not suffers a performance penalty due to scheduling stalls . 
+this limitation has largely been compensated for by various methods of increasing cpu parallelism  -lrb-  see below  -rrb-  . 
+cloud computing can involve subdividing cpu operation into virtual central processing units  -lrb-  vcpus  -rrb-  . 
+the control unit of the cpu contains circuitry that uses electrical signals to direct the entire computer system to carry out stored program instructions . 
+carnivorans all share the same arrangement of teeth in which the last upper premolar  -lrb-  named p4 -rrb- and the first lower molar  -lrb-  named m1 -rrb- have blade-like enamel crowns that work together as carnassial teeth to shear meat . 
+their molecular phylogeny shows the extant carnivora are a monophyletic group ,  the crown group of the carnivoramorpha . 
+the hypercarnivorous  -lrb-  strictly meat-eating  -rrb-  nimravid feliforms were extinct in north america after 26 mya and felids did not arrive in north america until the early middle miocene  -lrb-  16 mya  -rrb-  . 
+the divergence of carnivorans from other miacids ,  as well as the divergence of the two clades within carnivora ,  caniformia and feliformia ,  is now inferred to have happened in the middle eocene ,  about 42 million years ago  -lrb-  mya  -rrb-  . 
+canoidea have more premolars and molars in an elongated skull . 
+the jaw joint is generally well above the plane of tooth occlusion ,  allowing extra room for masseteric attachment on the dentary and causing the rotation of the lower jaw to be translated into straight-ahead crushing force between the teeth of the upper and lower jaws . 
+carnivorans are split into two suborders: feliformia  -lrb-  `` catlike ''  -rrb-  and caniformia  -lrb-  `` doglike ''  -rrb-  . 
+carnivorans have teeth and claws adapted for catching and eating other animals . 
+traditionally ,  the extinct family viverravidae  -lrb-  viverravids  -rrb-  had been thought to be the earliest carnivorans ,  with fossil records first appearing in the paleocene of north america about 60 mya ,  but recently described evidence from cranial morphology now places them outside the order carnivora . 
+colombia is a global partner of nato . 
+to refer to this country ,  the colombian government uses the terms `` colombia '' and `` república de colombia '' . 
+colombia has diplomatic missions in all continents . 
+colombia is projected to have a population of 50.2 million by 2020 and 55.3 million by 2050.
+colombia has more than 3,950 research groups in science and technology . 
+colombia is a middle power and regional actor in latin america . 
+in colombia there are 32 terrestrial biomes and 314 types of ecosystems . 
+colombia  -lrb-    ,  ;   -rrb-  ,  officially the republic of colombia  -lrb-    -rrb-  ,  is a sovereign state largely situated in the northwest of south america ,  with territories in central america . 
+in 1863 the name was again changed ,  this time to united states of colombia ,  before finally adopting its present name – the republic of colombia – in 1886.
+the name was later adopted by the republic of colombia of 1819, formed from the territories of the old viceroyalty of new granada  -lrb-  modern-day colombia ,  panama ,  venezuela ,  ecuador ,  and northwest brazil  -rrb-  . 
+the pro-spanish resistance was defeated in 1822 in the present territory of colombia and in 1823 in venezuela . 
+the name `` colombia '' is derived from the last name of christopher columbus  -lrb-   ,    -rrb-  . 
+the league finally awarded the disputed area to colombia in june 1934.
+the orinoco and amazon rivers mark limits with colombia to venezuela and peru respectively . 
+however ,  the new republic was unstable and three countries emerged from the collapse of gran colombia in 1830  -lrb-  new granada ,  ecuador and venezuela  -rrb-  . 
+the territory of the viceroyalty of new granada became the republic of colombia ,  organized as a union of the current territories of colombia ,  panama ,  ecuador ,  venezuela ,  parts of guyana and brazil and north of marañón river . 
+colombia's relations with venezuela have fluctuated due to ideological differences between both governments . 
+the colombian military is divided into three branches: the national army of colombia; the colombian air force; and the colombian navy . 
+during his visit to colombia ,  pope francis paid tribute to the victims of the conflict . 
+colombia entered the korean war when laureano gómez was elected president . 
+colombia's armed forces are the largest in latin america ,  and it is the second largest spender on its military after brazil . 
+colombia is one of the megadiverse countries in biodiversity ,  ranking first in bird species . 
+his term as colombia's president runs for four years beginning 7 august 2018.
+internal political and territorial divisions led to the dissolution of gran colombia in 1830.
+in 1547, new granada became the captaincy-general of new granada within the viceroyalty . 
+with an estimated 49 million people in 2017, colombia is the third-most populous country in latin america ,  after brazil and mexico . 
+colombia operates a system of civil law ,  which since 2005 has been applied through an adversarial system . 
+colombia is the second most biodiverse country in the world ,  lagging only after brazil which is approximately 7 times bigger . 
+about 10% of the species of the earth live in colombia ,  including over 1,900 species of bird ,  more than in europe and north america combined ,  colombia has 10% of the world's mammals species ,  14% of the amphibian species and 18% of the bird species of the world . 
+at this time he did not inform them that he had already begun filming `` citizen kane . `` 
+during production ,  the film was referred to as `` rko 281 '' . 
+the film's music was composed by bernard herrmann . 
+ ''citizen kane '' received the new york film critics circle award for best picture . 
+the film's sound cost $16,996, but was originally budgeted at $7,288.
+in 2012 the hearst estate agreed to screen the film at hearst castle in san simeon ,  breaking hearst's ban on the film . 
+ ''citizen kane '' was a rare film in that its principal roles were played by actors new to motion pictures . 
+when rko still delayed the film's release welles offered to buy the film for $1 million and the studio finally agreed to release the film on may 1.
+corrado had appeared in many hollywood films ,  often as a waiter ,  and welles wanted all of the actors to be new to films . 
+in 1972, herrmann said ,  `` i was fortunate to start my career with a film like `` citizen kane '' ,  it's been a downhill run ever since ! `` 
+he then started work on the idea that became `` citizen kane '' . 
+the beginning of the film's ending credits state that `` most of the principal actors in `` citizen kane '' are new to motion pictures . 
+welles was just as heavily made up as young kane as he was for old kane ,  and he often arrived on the set at 2:30 a . m . 
+citizen kane is a 1941 american mystery drama film by orson welles ,  its producer ,  co-screenwriter ,  director and star . 
+one of the long-standing controversies about `` citizen kane '' has been the authorship of the screenplay . 
+according to the film's official budget there were 81 sets built ,  but ferguson said there were between 106 and 116.
+at the time ,  it was almost unprecedented for a film trailer to not actually feature anything of the film itself; and while `` citizen kane '' is frequently cited as a groundbreaking ,  influential film ,  simon callow argues its trailer was no less original in its approach . 
+ ''citizen kane '' received good reviews from several critics . 
+the day following the premiere of `` citizen kane , ``  `` the new york times '' critic bosley crowther wrote that ``  .  .  .  it comes close to being the most sensational film ever made in hollywood . `` 
+in her 1992 monograph for the british film institute ,  critic laura mulvey explored the anti-fascist themes of `` citizen kane '' . 
+french film critic andré bazin defended the film ,  writing: `` in this respect ,  the accusation of plagiarism could very well be extended to the film's use of panchromatic film or its exploitation of the properties of gelatinous silver halide . `` 
+despite hearst's attempts to destroy the film ,  since 1941 references to his life and career have usually included a reference to `` citizen kane '' ,  such as the headline 'son of citizen kane dies' for the obituary of hearst's son . 
+film critic and director françois truffaut wrote that `` before `` kane '' ,  nobody in hollywood knew how to set music properly in movies . 
+hearst's attacks against welles went beyond attempting to suppress the film . 
+welles hired bernard herrmann to compose the film's score . 
+schaefer managed to book a few theaters willing to show the film . 
+questions over the authorship of the `` citizen kane '' screenplay were revived in 1971 by influential film critic pauline kael ,  whose controversial 50,000-word essay `` raising kane '' was commissioned as an introduction to the shooting script in `` the citizen kane book '' ,  published in october 1971.
+rko's publicity advertisements for the film erroneously promoted it as a love story . 
+thompson sets out to interview kane's friends and associates . 
+film scholars and historians view `` citizen kane '' as welles's attempt to create a new style of filmmaking by studying various forms of it and combining them into one . 
+sonny bupp ,  who played kane's young son ,  was the last surviving credited cast member of `` citizen kane '' when he died in 2007.
+arguments against the film's cinematic innovations were made as early as 1946 when french historian georges sadoul wrote ,  `` the film is an encyclopedia of old techniques . `` 
+when schaefer rejected hearst's offer to suppress the film ,  hearst banned every newspaper and station in his media conglomerate from reviewing—or even mentioning—the film . 
+any question of authorship was resolved with carringer's 1978 essay ,  `` the scripts of citizen kane '' . 
+although neither worked with welles again ,  toland and ferguson collaborated in several films in the 1940s . 
+ ''he trained us for films at the same time that he was training himself , ``  recalled agnes moorehead . 
+the assumption that the character of susan alexander kane was based on marion davies was a major reason hearst tried to destroy `` citizen kane '' . 
+the score established herrmann as an important new composer of film soundtracks and eschewed the typical hollywood practice of scoring a film with virtually non-stop music . 
+the technique of using flashbacks had been used in earlier films—most notably in `` the power and the glory ''  -lrb-  1933 -rrb-—but no film was as immersed in this technique as `` citizen kane '' . 
+the set design was an integral part of the film's overall look and toland's cinematography . 
+radio city music hall's management refused to screen `` citizen kane '' for its premiere . 
+the make-up for `` citizen kane '' was created and applied by maurice seiderman  -lrb-  1907–1989 -rrb- ,  a junior member of the rko make-up department . 
+other scenes shot in secret included those in which thompson interviews leland and bernstein ,  which were also shot on sets built for other films . 
+in the end of july ,  rko approved the film and welles was allowed to officially begin shooting ,  despite having already been filming `` tests '' for several weeks . 
+the film then returns to the omniscient perspective in the final scene ,  when only the audience discovers what `` rosebud '' is . 
+in a 1948 interview ,  d .  w .  griffith said ,  `` i loved `` citizen kane '' and particularly loved the ideas he took from me . `` 
+although credited as an assistant ,  the film's art direction was done by perry ferguson . 
+the film's special effects were supervised by rko department head vernon l .  walker . 
+they used stock footage from pathé news and the general film library . 
+principal photography took place in 1940 and the film received its american release in 1941.
+a `` prefix code '' is a code with the `` prefix property '': there is no valid code word in the system that is a prefix  -lrb-  start  -rrb-  of any other valid code word in the set . 
+codes can be used for brevity . 
+kraft's inequality characterizes the sets of codeword lengths that are possible in a prefix code . 
+a cable code replaces words  -lrb-  e . g . 
+codes that encode each source  -lrb-  clear text  -rrb-  character by a code word from some dictionary ,  and concatenation of such code words give us an encoded string . 
+other examples of prefix codes are country calling codes ,  the country and publisher parts of isbns ,  and the secondary synchronization codes used in the umts wcdma 3g wireless standard . 
+codes may also be used to represent data in a way more resistant to errors in transmission or storage . 
+like all other lemurs ,  cheirogaleids live exclusively on the island of madagascar . 
+in human care ,  they can live for up to 15 years ,  although their life expectancy in the wild is probably significantly shorter . 
+they have the dental formula:
+callitrichids typically live in small ,  territorial groups of about five or six animals . 
+the typical social structure seems to constitute a breeding group ,  with several of their previous offspring living in the group and providing significant help in rearing the young . 
+females mate with more than one male and each shares the responsibility of carrying the offspring . 
+the cebidae are one of the five families of new world monkeys now recognised . 
+the most recent classification of new world monkeys again splits the callitrichids off ,  leaving only the capuchins and squirrel monkeys in this family . 
+it is assumed that their oral teeth evolved from dermal denticles that migrated into the mouth ,  but it could be the other way around ,  as the teleost bony fish `` denticeps clupeoides '' has most of its head covered by dermal teeth  -lrb-  as does ,  probably ,  `` atherion elymus '' ,  another bony fish  -rrb-  . 
+by the start of the early devonian ,  419 million years ago ,  jawed fishes had divided into three distinct groups: the now extinct placoderms  -lrb-  a paraphyletic assemblage of ancient armoured fishes  -rrb-  ,  the bony fishes ,  and the clade that includes spiny sharks and early cartilaginous fish . 
+the class chondrichthyes has two subclasses: the subclass elasmobranchii  -lrb-  sharks ,  rays ,  skates ,  and sawfish  -rrb-  and the subclass holocephali  -lrb-  chimaeras  -rrb-  . 
+cartilaginous fish are considered to have evolved from acanthodians . 
+the first cartilaginous fishes evolved from `` doliodus ''-like spiny shark ancestors . 
+this is most likely a secondary evolved characteristic ,  which means there is not necessarily a connection between the teeth and the original dermal scales . 
+the old placoderms did not have teeth at all ,  but had sharp bony plates in their mouth . 
+apart from electric rays ,  which have a thick and flabby body ,  with soft ,  loose skin ,  chondrichthyans have tough skin covered with dermal teeth  -lrb-  again ,  holocephali is an exception ,  as the teeth are lost in adults ,  only kept on the clasping organ seen on the caudal ventral surface of the male  -rrb-  ,  also called placoid scales  -lrb-  or `` dermal denticles ''  -rrb-  ,  making it feel like sandpaper . 
+he also produced a book on the plants grown in the uppsala botanical garden ,  ' . 
+burman also helped linnaeus with the books on which he was working: ' and ``  '' . 
+he returned to sweden in 1779, one year after linnaeus' death . 
+he was registered as ``  ,  the latin form of his full name ,  which he also used later for his latin publications . 
+he is also considered as one of the founders of modern ecology . 
+carl linnaeus  -lrb-  ; 23 may 1707 – 10 january 1778 -rrb- ,  also known after his ennoblement as carl von linné  -lrb-    -rrb-  ,  was a swedish botanist ,  physician ,  and zoologist who formalised binomial nomenclature ,  the modern system of naming organisms . 
+carl's patronymic would have been nilsson ,  as in carl nilsson linnæus . 
+in october that same year ,  his wife and nine-month-old son followed him to live in uppsala . 
+the von linné name ended with his son carl ,  who never married . 
+'  -lrb-  or ,  more fully ,  '  -rrb-  was first published in 1753, as a two-volume work . 
+smith founded the linnean society of london five years later . 
+linnaeus began his expedition from uppsala on 12 may 1732, just before he turned 25.
+daniel solander was living in linnaeus' house during his time as a student in uppsala . 
+carl's father was the first in his ancestry to adopt a permanent surname . 
+the dry material was transferred to uppsala . 
+he was one of the most acclaimed scientists in europe at the time of his death . 
+ '' '' was first published in 1737, delineating plant genera . 
+at the end of his lifetime the linnean collection in uppsala was considered one of the finest collections of natural history objects in sweden . 
+in ' linnaeus' ideas about nomenclature and classification were first used in a practical way ,  making this the first proto-modern flora . 
+during linnaeus' time as professor and rector of uppsala university ,  he taught many devoted students ,  17 of whom he called `` apostles '' . 
+the first edition of ``  '' was printed in the netherlands in 1735.
+during the summer of 1745, linnaeus published two more books: ' and ' .  '
+one of the first scientists linnaeus met in the netherlands was johan frederik gronovius to whom linnaeus showed one of the several manuscripts he had brought with him from sweden . 
+that summer linnaeus reunited with peter artedi ,  a friend from uppsala with whom he had once made a pact that should either of the two predecease the other ,  the survivor would finish the decedent's work . 
+two years after his tutoring had begun ,  he was sent to the lower grammar school at växjö in 1717.
+a fire that destroyed about one third of uppsala and had threatened his residence there necessitated the move . 
+christopher tärnström ,  the first apostle and a 43-year-old pastor with a wife and children ,  made his journey in 1746.
+in april 1732, linnaeus was awarded a grant from the royal society of sciences in uppsala for his journey . 
+it contains the first use of the name `` nepenthes '' ,  which linnaeus used to describe a genus of pitcher plants . 
+linnaeus stayed with clifford at hartekamp until 18 october 1737  -lrb-  new style  -rrb-  ,  when he left the house to return to sweden . 
+after his return ,  linnaeus never left sweden again . 
+there are over two hundred descendants of linnaeus through two of his daughters . 
+linnaeus also travelled to oxford university to visit the botanist johann jacob dillenius . 
+linnaeus felt uppsala was too noisy and unhealthy ,  so he bought two farms in 1758: hammarby and sävja . 
+many of his writings were in latin ,  and his name is rendered in latin as  -lrb-  after 1761 carolus a linné  -rrb-  . 
+other coastal categories:
+a pelagic coast refers to a coast which fronts the open ocean ,  as opposed to a more sheltered coast in a gulf or bay . 
+the coast ,  also known as the coastline or seashore ,  is the area where land meets the sea or ocean ,  or a line that forms the boundary between the land and the ocean or a lake . 
+this forms an abrasion or cliffed coast . 
+the term `` coastal zone '' is a region where interaction of the sea and land processes occurs . 
+coasts ,  especially those with beaches and warm water ,  attract tourists . 
+it is believed that melting arctic ice will cause sea levels to rise and flood coastal areas . 
+catatonia can be stuporous or excited . 
+it was first described in 1874 by karl ludwig kahlbaum ,  in  -lrb-  `` catatonia or tension insanity ''  -rrb-  . 
+catatonia is a state of psycho-motor immobility and behavioral abnormality manifested by stupor . 
+according to the dsm-5, `` catatonia associated with another mental disorder  -lrb-  catatonia specifier  -rrb- ``   -lrb-  code 293.89 f06.1 -rrb- is diagnosed if the clinical picture is dominated by at least three of the following:
+fink and taylor developed a catatonia rating scale to identify the syndrome . 
+without knowledge of the key ,  it should be extremely difficult ,  if not impossible ,  to decrypt the resulting ciphertext into readable plaintext . 
+there are exceptions and some cipher systems may use slightly more ,  or fewer ,  characters when output versus the number that were input . 
+uk country music is overseen by the british country music association . 
+country music has been a particularly popular form of musical expression among indigenous australians . 
+it takes its roots from genres such as folk music  -lrb-  especially appalachian folk and western music  -rrb-  and blues . 
+in brazil ,  a musical genre known as música sertaneja ,  a very popular genre of music in brazil ,  is very similar to american country music ,  sharing the music's rich history of development in the countryside . 
+australian country music has a long tradition . 
+the only network dedicated to country music in australia is the country music channel owned by foxtel . 
+country music ,  also known as country and western  -lrb-  or simply country  -rrb-  ,  and hillbilly music ,  is a genre of popular music that originated in the southern united states in the early 1920s . 
+the country music association undertakes various initiatives to promote country music internationally . 
+stingray music continues to maintain several country music audio-only channels on cable radio . 
+by the late 1960s ,  western music ,  in particular the cowboy ballad ,  was in decline . 
+one stream of outlaw country music which emerged as subgenre in its own right was termed `` red dirt music . `` 
+in iran ,  country music has appeared in recent years . 
+country music was `` introduced to the world as a southern phenomenon . `` 
+truck driving country music is a genre of country music and is a fusion of honky-tonk ,  country rock and the bakersfield sound . 
+regional mexican is mexico's version of country music . 
+according to lindsey starnes ,  the term `` country music '' gained popularity in the 1940s in preference to the earlier term `` hillbilly music ''; it came to encompass western music ,  which evolved parallel to hillbilly music from similar roots ,  in the mid-20th century . 
+at its height ,  western swing rivaled the popularity of big band swing music . 
+pioneers of a more americanised popular country music in australia included tex morton  -lrb-  known as `` the father of australian country music ''  -rrb-  in the 1930s . 
+in the early-mid-1990s ,  country western music was influenced by the popularity of line dancing . 
+however the cowboy ballad and honky-tonk music would be resurrected and reinterpreted in the 1970s with the growth in popularity of `` outlaw country '' music from texas and oklahoma . 
+the music of the 1960s and 1970s targeted the american working class ,  and truckers in particular . 
+singer-songwriter paul kelly ,  whose music style straddles folk ,  rock and country ,  is often described as the poet laureate of australian music . 
+in the 1930s and 1940s ,  cowboy songs ,  or western music ,  which had been recorded since the 1920s ,  were popularized by films made in hollywood . 
+other significant country music festivals include the whittlesea country music festival  -lrb-  near melbourne  -rrb-  and the mildura country music festival for `` independent '' performers during october ,  and the canberra country music festival held in the national capital during november . 
+atlanta rapper young thug also has performed country music . 
+the origins of country music are the folk music of working class americans ,  who blended popular songs ,  irish and celtic fiddle tunes ,  traditional english ballads ,  cowboy songs ,  and various musical traditions from european immigrants . 
+tom roland ,  from the country music association international ,  explains country music's global popularity: `` in this respect ,  at least ,  country music listeners around the globe have something in common with those in the united states . 
+during the fifth generation  -lrb-  1990s  -rrb-  ,  country music became a worldwide phenomenon . 
+fourth generation  -lrb-  1970s–1980s  -rrb-  music included outlaw country with roots in the bakersfield sound ,  and country pop with roots in the countrypolitan ,  folk music and soft rock . 
+the sixth generation of the country continued the crossover between country and pop music . 
+from 1945 to 1955 jenny lou carson was one of the most prolific songwriters in country music . 
+cmc  -lrb-  the country music channel  -rrb-  ,  a 24‑hour music channel dedicated to non-stop country music ,  can be viewed on pay tv and features once a year the golden guitar awards ,  cmas and ccmas alongside international shows such as `` the wilkinsons '' ,  `` the road hammers '' ,  and `` country music across america '' . 
+the tamworth country music festival began in 1973 and now attracts up to 100,000 visitors annually . 
+country music has enjoyed mainstream exposure and success throughout the '60s and '70s in the united kingdom . 
+in india ,  the anglo-indian community is well known for enjoying and performing country music . 
+during the mid-1950s a new style of country music became popular ,  eventually to be referred to as rockabilly . 
+the cold war  -lrb-  1947–1953 -rrb- is the period within the cold war from the truman doctrine in 1947 to the conclusion of the korean war in 1953.
+during world war ii ,  the soviet union annexed several countries as soviet socialist republics within the union of soviet socialist republics . 
+supporters of capitalism generally oppose crony capitalism as well ,  and consider it an aberration brought on by governmental favors incompatible with free market . 
+normally ,  this will be untenable to maintain in business; new entrants will affect the market . 
+much of the impetus behind campaign finance reform in the united states and in other countries is an attempt to prevent economic power being used to take political power . 
+the capitalist position is that `` natural monopolies '' are rare ,  therefore governmental regulations generally abet established wealthy interests by restricting competition . 
+socialist economists dismiss the term as an apologetic for failures of neoliberal policy and ,  more fundamentally ,  their perception of the weaknesses of market allocation . 
+in its worst form ,  crony capitalism can devolve into simple corruption ,  where any pretense of a free market is dispensed with . 
+the term `` crony capitalism '' made a significant impact in the public as an explanation of the asian financial crisis . 
+critics of crony capitalism including socialists and anti-capitalists often assert that crony capitalism is the inevitable result of `` any '' strictly capitalist system . 
+it was an early bank regulator and grew to be one being the most powerful organizations in the country due largely to being the depository of the government's revenue . 
+the extent of difference between these terms is whether a government action can be said to benefit the individuals rather than the industry . 
+some of the better-known ancient law codes include the code of lipit-ishtar of isin ,  the code of hammurabi of babylonia ,  the hittite code ,  the assyrian code and mosaic law . 
+after that ,  many governments ruled by special codes of written laws . 
+when these principles are written down into a single document or set of legal documents ,  those documents may be said to embody a `` written constitution ''; if they are written down in a single comprehensive document ,  it is said to embody a `` codified constitution '' . 
+in this context ,  `` within power '' ,  `` intra vires '' ,  `` authorized '' and `` valid '' have the same meaning; as do `` beyond power '' ,  `` ultra vires '' ,  `` not authorized '' and `` invalid '' . 
+893, alfred the great combined this and two other earlier saxon codes ,  with various mosaic and christian precepts ,  to produce the `` doom book '' code of laws for england . 
+activities of officials within an organization or polity that fall within the constitutional or statutory authority of those officials are termed `` within power ''  -lrb-  or ,  in latin ,  `` intra vires ''  -rrb- ; if they do not ,  they are termed `` beyond power ''  -lrb-  or ,  in latin ,  `` ultra vires ''  -rrb-  . 
+excavations in modern-day iraq by ernest de sarzec in 1877 found evidence of the earliest known code of justice ,  issued by the sumerian king urukagina of lagash `` ca '' 2300 bc . 
+the common law is more malleable than statutory law . 
+in common law legal systems ,  the common law is crucial to understanding almost all important areas of law . 
+ ''black's law dictionary '' 10th ed .  ,  definition 4, differentiates `` common law ''  -lrb-  or just `` law ''  -rrb-  from `` equity '' . 
+interactions between common law ,  constitutional law ,  statutory law and regulatory law also give rise to considerable complexity . 
+some of these countries have variants on common law systems . 
+in law ,  common law  -lrb-  also known as judicial precedent or judge-made law ,  or case law  -rrb-  is that body of law derived from judicial decisions of courts and similar tribunals . 
+all law systems rely on written publication of the law ,  so that it is accessible to all . 
+the term `` common law '' has many connotations . 
+by contrast to statutory codification of common law ,  some statutes displace common law ,  for example to create a new cause of action that did not exist in the common law ,  or to legislatively overrule the common law . 
+ ''common law '' as the term is used today in common law countries contrasts with `` ius commune '' . 
+the contrast between civil law and common law legal systems has become increasingly blurred ,  with the growing importance of jurisprudence  -lrb-  similar to case law but not binding  -rrb-  in civil law countries ,  and the growing importance of statute law and codes in common law countries . 
+then ,  one applies that law to the facts . 
+in common law jurisdictions  -lrb-  in the sense opposed to `` civil law ''  -rrb-  ,  legislatures operate under the assumption that statutes will be interpreted against the backdrop of the pre-existing common law . 
+the life of the law has not been logic; it has been experience . 
+the type of procedure practiced in common law courts is known as the adversarial system; this is also a development of the common law . 
+this is not to say that common law is better in every situation . 
+ ''black's law dictionary '' 10th ed .  ,  definition 2, differentiates `` common law '' jurisdictions and legal systems from `` civil law '' or `` code '' jurisdictions . 
+common law decisions are published in law reports for use by lawyers ,  courts and the general public . 
+common law systems place great weight on court decisions ,  which are considered `` law '' with the same force of law as statutes—for nearly a millennium ,  common law courts have had the authority to make law where no legislative statute exists ,  and statutes mean what courts interpret them to mean . 
+in one usage that is now archaic ,  but that gives insight into the history of the common law ,  `` common law '' referred to the pre-christian system of law ,  imported by the saxons to england ,  and dating to before the norman conquest ,  and before there was any consistent law to be applied . 
+ ''black's law dictionary '' 10th ed .  ,  definition 3 is `` general law common to a country as a whole ,  as opposed to special law that has only local application . `` 
+these `` common law systems '' are legal systems that give great precedential weight to common law ,  and to the style of reasoning inherited from the english legal system . 
+in a common law jurisdiction several stages of research and analysis are required to determine `` what the law is '' in a given situation . 
+judge-made common law operated as the primary source of law for several hundred years ,  before parliament acquired legislative powers to create statutory law . 
+the role of the legal academy presents a significant `` cultural '' difference between common law  -lrb-  connotation 2 -rrb- and civil law jurisdictions . 
+the common theme in all cases is that commercial parties seek predictability and simplicity in their contractual relations ,  and frequently choose the law of a common law jurisdiction with a well-developed body of common law to achieve that result . 
+as a result ,  today ,  the main systematic divisions of the law into property ,  contract ,  and tort  -lrb-  and to some extent unjust enrichment  -rrb-  can be found in the civil law as well as in the common law . 
+common law systems trace their history to england ,  while civil law systems trace their history through the napoleonic code back to the corpus juris civilis of roman law . 
+the first definition of `` common law '' given in `` black's law dictionary '' ,  10th edition ,  2014, is `` the body of law derived from judicial decisions ,  rather than from statutes or constitutions; synonym caselaw ,  contrast statutory law . `` 
+the main alternative to the common law system is the civil law system ,  which is used in continental europe ,  and most of central and south america . 
+civil law lawyers consult case law to obtain their best prediction of how a court will rule ,  but comparatively ,  civil law judges are less bound to follow it . 
+by contrast ,  in civil law jurisdictions  -lrb-  the legal tradition that prevails ,  or is combined with common law ,  in europe and most non-islamic ,  non-common law countries  -rrb-  ,  courts lack authority to act if there is no statute . 
+with the transition from english law ,  which had common law crimes ,  to the new legal system under the u . s .  constitution ,  which prohibited `` ex post facto '' laws at both the federal and state level ,  the question was raised whether there could be common law crimes in the united states . 
+still ,  many states retain selected common law crimes . 
+common descent describes how ,  in evolutionary biology ,  a group of organisms share a most recent common ancestor . 
+charles darwin's views about common descent ,  as expressed in `` on the origin of species '' ,  were that it was probable that there was only one progenitor for all life forms:
+6,331 groups of genes common to all living animals have been identified; these may have arisen from a single common ancestor that lived 650 million years ago in the precambrian . 
+common descent was widely accepted amongst the scientific community after darwin's publication . 
+celtic music is a broad grouping of music genres that evolved out of the folk music traditions of the celtic people of western europe . 
+collectively these modern interpretations of celtic music are sometimes referred to as celtic fusion . 
+ ''celtic music '' means two things mainly . 
+modern music may also be termed `` celtic '' because it is written and recorded in a celtic language ,  regardless of musical style . 
+the modern celtic music scene involves a large number of music festivals ,  as it has traditionally . 
+the same is true of the music of asturias ,  cantabria ,  and that of northern portugal  -lrb-  some say even traditional music from central portugal can be labeled celtic  -rrb-  . 
+the solo music of clannad's lead singer ,  moya brennan  -lrb-  often referred to as the first lady of celtic music  -rrb-  has further enhanced this influence . 
+out of the 88 modern constellations ,  36 lie predominantly in the northern sky ,  and the other 52 predominantly in the southern . 
+traditional chinese star maps incorporated 23 new constellations with 125 stars of the southern hemisphere of the sky based on the knowledge of western star charts; with this improvement ,  the chinese sky was integrated with the world astronomy . 
+historically ,  the origins of the constellations of the northern and southern skies are distinctly different . 
+the southern sky ,  below about −65° declination ,  was only partially catalogued by ancient babylonians ,  egyptian ,  greeks ,  chinese ,  and persian astronomers of the north . 
+the history of southern constellations is not straightforward . 
+influenced by european astronomy during the late ming dynasty ,  more stars were depicted on the charts but retaining the traditional constellations; new stars observed were incorporated as supplementary stars in old constellations in the southern sky which did not depict any of the traditional stars recorded by ancient chinese astronomers . 
+subsequent star atlases led to the development of today's accepted modern constellations . 
+the 1603 star atlas `` uranometria '' of johann bayer assigned stars to individual constellations and formalized the division by assigning a series of greek and latin letters to the stars within each constellation . 
+another ten have the same stars but different names . 
+de lacaille studied the stars of the southern hemisphere from 1750 until 1754 from cape of good hope ,  when he was said to have observed more than 10,000 stars using a refracting telescope . 
+the classical zodiac is a revision of neo-babylonian constellations from the 6th century bc . 
+it is called a printer by analogy with an inkjet printer which produces a two-dimensional document by a similar process of depositing a layer of ink on paper . 
+a `` virtual printer '' is a piece of computer software whose user interface and api resembles that of a printer driver ,  but which is not connected with a physical computer printer . 
+ ''networked '' or `` shared '' printers are `` designed for high-volume ,  high-speed printing '' . 
+some printer technologies do not work with certain types of physical media ,  such as carbon paper or transparencies . 
+by the 2000s high-quality printers of this sort had fallen under the $100 price point and became commonplace . 
+in most jurisdictions the copyright holder must bear the cost of enforcing copyright . 
+note additionally that mickey mouse is not copyrighted because characters cannot be copyrighted; rather ,  `` steamboat willie '' is copyrighted and mickey mouse ,  as a character in that copyrighted work ,  is afforded protection . 
+copyright is applicable to certain forms of creative work . 
+copyright laws are standardized somewhat through these international conventions such as the berne convention and universal copyright convention . 
+the original holder of the copyright may be the employer of the author rather than the author himself if the work is a `` work for hire '' . 
+a major limitation on copyright on ideas is that copyright protects only the original expression of ideas ,  and not the underlying ideas themselves . 
+a widely circulated strategy to avoid the cost of copyright registration is referred to as the poor man's copyright . 
+an irrevocable right to be recognized as the work's creator appears in some countries' copyright laws . 
+copyrights can be granted by public law and are in that case considered `` territorial rights '' . 
+most jurisdictions recognize copyright limitations ,  allowing `` fair '' exceptions to the creator's exclusivity of copyright and giving users certain rights . 
+for a work to be considered to infringe upon copyright ,  its use must have occurred in a nation that has domestic copyright laws or adheres to a bilateral treaty or established international convention such as the berne convention or wipo copyright treaty . 
+copyright does not cover ideas and information themselves ,  only the form or manner in which they are expressed . 
+copyright may apply to a wide range of creative ,  intellectual ,  or artistic forms ,  or `` works '' . 
+ ''catalan '' can be pronounced as  ,  or  . 
+the decline of catalan continued in the 16th and 17th centuries . 
+there is also some intergenerational shift towards catalan . 
+according to the statistical institute of catalonia ,  in 2013 the catalan language is the second most commonly used in catalonia ,  after spanish ,  as a native or self-defining language: 7% of the population self-identifies with both catalan and spanish equally ,  36.4% with catalan and 47.5% only spanish . 
+in alicante province ,  catalan is being replaced by spanish and in alghero by italian . 
+these territories are often called or `` catalan countries '' . 
+in andorra ,  catalan has always been the sole official language . 
+old catalan shared many features with gallo-romance ,  diverging from old occitan between the 11th and 14th centuries . 
+since the promulgation of the 1993 constitution ,  several policies favouring catalan have been enforced ,  like catalan medium education . 
+the spacelab infrared telescope  -lrb-  irt  -rrb-  was also flown on the mission . 
+as with previous spacelab missions ,  the crew was divided between two 12-hour shifts . 
+despite mission replanning necessitated by `` challenger ''<nowiki>'</nowiki>s abort to orbit trajectory ,  the spacelab mission was declared a success . 
+sts-51-f  -lrb-  also known as spacelab 2 -rrb- was the nineteenth flight of nasa's space shuttle program and the eighth flight of space shuttle `` challenger '' . 
+the nineteen stars indicate that the mission is the 19th shuttle flight . 
+as a result of the ato ,  the mission was carried out at a slightly lower orbital altitude . 
+the classical period was an era of classical music between roughly 1730 and 1820.
+while vocal music such as comic opera was popular ,  great importance was given to instrumental music . 
+the classical musical style was supported by technical developments in instruments . 
+he then took this integrated style and began applying it to orchestral and vocal music . 
+haydn's gift to music was a way of composing ,  a way of structuring works ,  which was at the same time in accord with the governing aesthetic of the new style . 
+while some scholars suggest that haydn was overshadowed by mozart and beethoven ,  it would be difficult to overstate haydn's centrality to the new style ,  and therefore to the future of western art music as a whole . 
+the classical style draws on the `` style galant '' ,  a musical style which emphasised light elegance in place of the baroque's dignified seriousness and impressive grandeur . 
+one composer who was influential in spreading the more serious style that mozart and haydn had formed is muzio clementi ,  a gifted virtuoso pianist who tied with mozart in a musical `` duel '' before the emperor in which they each improvised on the piano and performed their compositions . 
+structurally ,  classical music generally has a clear musical form ,  with a well-defined contrast between tonic and dominant ,  introduced by clear cadences . 
+baroque music generally uses many harmonic fantasies and polyphonic sections that focus less on the structure of the musical piece ,  and there was less emphasis on clear musical phrases . 
+the classical period falls between the baroque and the romantic periods . 
+over the course of the classical period ,  symphonies and concertos developed and were presented independently of vocal music . 
+mozart's arrival in vienna in 1780 brought an acceleration in the development of the classical style . 
+that term is often more broadly applied to the classical era in music as a whole ,  as a means to distinguish it from other periods that are colloquially referred to as `` classical '' ,  namely baroque and romantic music . 
+the period is sometimes referred to as the era of `` viennese classic '' or `` classicism ''  -lrb-    -rrb-  ,  since gluck ,  mozart ,  haydn ,  salieri ,  schubert ,  and beethoven all worked in vienna . 
+vocal music ,  such as songs for a singer and piano  -lrb-  notably the work of schubert  -rrb-  ,  choral works ,  and opera  -lrb-  a staged dramatic work for singers and orchestra  -rrb-  were also important during this period . 
+mozart rapidly came to the attention of haydn ,  who hailed the new composer ,  studied his works ,  and considered the younger man his only true peer in music . 
+all of these trends contributed to the shift to the `` romantic '' style . 
+in the classical period ,  the string section of the orchestra was standardized as just four instruments:
+the first viennese school is a name mostly used to refer to three composers of the classical period in late-18th-century vienna: haydn ,  mozart ,  and beethoven . 
+to encode code points higher than the length of the code unit ,  such as above 256 for 8-bit units ,  the solution was to implement variable-width encodings where an escape sequence would signal that subsequent bits should be parsed as a higher code point . 
+ibm's extended binary coded decimal interchange code  -lrb-  usually abbreviated as ebcdic  -rrb-  is an eight-bit encoding scheme developed in 1963.
+ ''character set '' ,  `` character map '' ,  `` codeset '' and `` code page '' are related ,  but not identical ,  terms . 
+these 65 control codes were carried over to unicode . 
+the extended binary coded decimal interchange code  -lrb-  ebcdic  -rrb-  character set contains 65 control codes ,  including all of the ascii control codes as well as additional codes which are mostly used to control ibm peripherals . 
+carbon sublimes in a carbon arc ,  which has a temperature of about 5800 k  -lrb-  5,530 °c or 9,980 °f  -rrb-  . 
+carbon is one of the few elements known since antiquity . 
+the atoms of carbon can bond together in different ways ,  termed allotropes of carbon . 
+for this reason ,  carbon has often been referred to as the `` king of the elements '' . 
+any data actively operated on is also stored there in uniform manner . 
+the former controls the flow of data between the cpu and memory ,  while the latter performs arithmetic and logical operations on data . 
+the central processing unit  -lrb-  cpu  -rrb-  of a computer is what manipulates data by performing computations . 
+a modern digital computer represents data using the binary numeral system . 
+data are encoded by assigning a bit pattern to each character ,  digit ,  or multimedia object . 
+ ''off-line storage '' is a computer data storage on a medium or a device that is not under the control of a processing unit . 
+computer data storage ,  often called storage or memory ,  is a technology consisting of computer components and recording media that are used to retain digital data . 
+to reduce the seek time and rotational latency ,  data are transferred to and from disks in large contiguous blocks . 
+analysis of trade-off between storage cost saving and costs of related computations and possible delays in data availability is done before deciding whether to keep certain data compressed or not . 
+modern computer systems typically have two orders of magnitude more secondary storage than primary storage and data are kept for a longer time there . 
+this led to modern random-access memory  -lrb-  ram  -rrb-  . 
+data compression methods allow in many cases  -lrb-  such as a database  -rrb-  to represent a string of bits by a shorter bit string  -lrb-  `` compress ''  -rrb-  and reconstruct the original string  -lrb-  `` decompress ''  -rrb-  when needed . 
+when data reside on disk ,  accessing them in large blocks to hide latency offers an opportunity to design efficient external memory algorithms . 
+generally the fast volatile technologies  -lrb-  which lose data when off power  -rrb-  are referred to as `` memory '' ,  while slower persistent technologies are referred to as `` storage '' . 
+and the ratio of the rate constants is also a constant ,  now known as an equilibrium constant . 
+such a state is known as dynamic equilibrium . 
+since at equilibrium forward and backward rates are equal:
+the equilibrium concentration position of a reaction is said to lie `` far to the right '' if ,  at equilibrium ,  nearly all the reactants are consumed . 
+the set of all `` k ''-combinations of a set `` s '' is often denoted by formula_5.
+which can be written using factorials as formula_2 whenever formula_3, and which is zero when formula_4.
