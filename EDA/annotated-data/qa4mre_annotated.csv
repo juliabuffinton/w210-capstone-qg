@@ -1,0 +1,586 @@
+ANNOT_ID,Q_ID,NONSENSE,SENTS_INDICES,N_SENTS,SKILLS,SKILL_COUNTS,Q_STR_2
+4_Alzheimer_1,1,False,"[[984, 1030]]",1,3,"[2, 11, 6]",For what purpose were some mice injecte
+4_Alzheimer_1,1,False,"[[984, 1030]]",1,3,"[2, 11, 6]",For what purpose were some mice injecte
+4_Alzheimer_1,1,False,"[[984, 1030]]",1,3,"[2, 11, 6]",For what purpose were some mice injecte
+4_Alzheimer_1,1,False,"[[984, 1030]]",1,3,"[2, 11, 6]",For what purpose were some mice injecte
+4_Alzheimer_1,1,False,"[[984, 1030]]",1,3,"[2, 11, 6]",For what purpose were some mice injecte
+4_Alzheimer_1,2,False,"[[11, 35]]",1,2,"[9, 11]",How many people affected by Alzheimer's
+4_Alzheimer_1,2,False,"[[11, 35]]",1,2,"[9, 11]",How many people affected by Alzheimer's
+4_Alzheimer_1,2,False,"[[11, 35]]",1,2,"[9, 11]",How many people affected by Alzheimer's
+4_Alzheimer_1,2,False,"[[11, 35]]",1,2,"[9, 11]",How many people affected by Alzheimer's
+4_Alzheimer_1,2,False,"[[11, 35]]",1,2,"[9, 11]",How many people affected by Alzheimer's
+4_Alzheimer_1,3,False,"[[739, 762]]",1,3,"[9, 11, 6]",How can Alzheimer's patien
+4_Alzheimer_1,3,False,"[[739, 762]]",1,3,"[9, 11, 6]",How can Alzheimer's patien
+4_Alzheimer_1,3,False,"[[739, 762]]",1,3,"[9, 11, 6]",How can Alzheimer's patien
+4_Alzheimer_1,3,False,"[[739, 762]]",1,3,"[9, 11, 6]",How can Alzheimer's patien
+4_Alzheimer_1,3,False,"[[739, 762]]",1,3,"[9, 11, 6]",How can Alzheimer's patien
+4_Alzheimer_1,6,False,"[[642, 672]]",1,2,"[2, 11]",How long after taking bexarotene is it
+4_Alzheimer_1,6,False,"[[642, 672]]",1,2,"[2, 11]",How long after taking bexarotene is it
+4_Alzheimer_1,6,False,"[[642, 672]]",1,2,"[2, 11]",How long after taking bexarotene is it
+4_Alzheimer_1,6,False,"[[642, 672]]",1,2,"[2, 11]",How long after taking bexarotene is it
+4_Alzheimer_1,6,False,"[[642, 672]]",1,2,"[2, 11]",How long after taking bexarotene is it
+4_Alzheimer_1,8,False,"[[739, 868], [1030, 1061]]",2,3,"[8, 11, 3]",Why cannot bexarotene be used 
+4_Alzheimer_1,8,False,"[[739, 868], [1030, 1061]]",2,3,"[8, 11, 3]",Why cannot bexarotene be used 
+4_Alzheimer_1,8,False,"[[739, 868], [1030, 1061]]",2,3,"[8, 11, 3]",Why cannot bexarotene be used 
+4_Alzheimer_1,8,False,"[[739, 868], [1030, 1061]]",2,3,"[8, 11, 3]",Why cannot bexarotene be used 
+4_Alzheimer_1,8,False,"[[739, 868], [1030, 1061]]",2,3,"[8, 11, 3]",Why cannot bexarotene be used 
+4_Alzheimer_1,10,True,"[[739, 856]]",1,0,[14],Can proteins and amyloids expla
+4_Alzheimer_1,10,True,"[[739, 856]]",1,0,[14],Can proteins and amyloids expla
+4_Alzheimer_1,10,True,"[[739, 856]]",1,0,[14],Can proteins and amyloids expla
+4_Alzheimer_1,10,True,"[[739, 856]]",1,0,[14],Can proteins and amyloids expla
+4_Alzheimer_1,10,True,"[[739, 856]]",1,0,[14],Can proteins and amyloids expla
+4_Alzheimer_1,11,False,"[[528, 590]]",1,4,"[8, 9, 11, 12]",What is the aim of giving Targretin
+4_Alzheimer_1,11,False,"[[528, 590]]",1,4,"[8, 9, 11, 12]",What is the aim of giving Targretin
+4_Alzheimer_1,11,False,"[[528, 590]]",1,4,"[8, 9, 11, 12]",What is the aim of giving Targretin
+4_Alzheimer_1,11,False,"[[528, 590]]",1,4,"[8, 9, 11, 12]",What is the aim of giving Targretin
+4_Alzheimer_1,11,False,"[[528, 590]]",1,4,"[8, 9, 11, 12]",What is the aim of giving Targretin
+4_Alzheimer_1,13,True,"[[778, 794]]",1,0,[14],Why can vitamin D cause the br
+4_Alzheimer_1,13,True,"[[778, 794]]",1,0,[14],Why can vitamin D cause the br
+4_Alzheimer_1,13,True,"[[778, 794]]",1,0,[14],Why can vitamin D cause the br
+4_Alzheimer_1,13,True,"[[778, 794]]",1,0,[14],Why can vitamin D cause the br
+4_Alzheimer_1,13,True,"[[778, 794]]",1,0,[14],Why can vitamin D cause the br
+4_Alzheimer_1,14,False,"[[157, 166]]",1,0,[13],What is a common characteristic 
+4_Alzheimer_1,14,False,"[[157, 166]]",1,0,[13],What is a common characteristic 
+4_Alzheimer_1,14,False,"[[157, 166]]",1,0,[13],What is a common characteristic 
+4_Alzheimer_1,14,False,"[[157, 166]]",1,0,[13],What is a common characteristic 
+4_Alzheimer_1,14,False,"[[157, 166]]",1,0,[13],What is a common characteristic 
+4_Alzheimer_1,15,False,"[[868, 953]]",1,2,"[11, 3]",How do vitamin D an
+4_Alzheimer_1,15,False,"[[868, 953]]",1,2,"[11, 3]",How do vitamin D an
+4_Alzheimer_1,15,False,"[[868, 953]]",1,2,"[11, 3]",How do vitamin D an
+4_Alzheimer_1,15,False,"[[868, 953]]",1,2,"[11, 3]",How do vitamin D an
+4_Alzheimer_1,15,False,"[[868, 953]]",1,2,"[11, 3]",How do vitamin D an
+4_Alzheimer_2,2,True,"[[451, 452]]",1,0,[14],Is it possible for scientist
+4_Alzheimer_2,2,True,"[[451, 452]]",1,0,[14],Is it possible for scientist
+4_Alzheimer_2,2,True,"[[451, 452]]",1,0,[14],Is it possible for scientist
+4_Alzheimer_2,2,True,"[[451, 452]]",1,0,[14],Is it possible for scientist
+4_Alzheimer_2,2,True,"[[451, 452]]",1,0,[14],Is it possible for scientist
+4_Alzheimer_2,3,False,"[[312, 339]]",1,1,[11],How can we start developing 
+4_Alzheimer_2,3,False,"[[312, 339]]",1,1,[11],How can we start developing 
+4_Alzheimer_2,3,False,"[[312, 339]]",1,1,[11],How can we start developing 
+4_Alzheimer_2,3,False,"[[312, 339]]",1,1,[11],How can we start developing 
+4_Alzheimer_2,3,False,"[[312, 339]]",1,1,[11],How can we start developing 
+4_Alzheimer_2,4,False,"[[367, 415]]",1,3,"[8, 9, 11]",Is it possible to protect neurons aga
+4_Alzheimer_2,4,False,"[[367, 415]]",1,3,"[8, 9, 11]",Is it possible to protect neurons aga
+4_Alzheimer_2,4,False,"[[367, 415]]",1,3,"[8, 9, 11]",Is it possible to protect neurons aga
+4_Alzheimer_2,4,False,"[[367, 415]]",1,3,"[8, 9, 11]",Is it possible to protect neurons aga
+4_Alzheimer_2,4,False,"[[367, 415]]",1,3,"[8, 9, 11]",Is it possible to protect neurons aga
+4_Alzheimer_2,5,False,"[[38, 143]]",1,3,"[8, 2, 11]",Give two symp
+4_Alzheimer_2,5,False,"[[38, 143]]",1,3,"[8, 2, 11]",Give two symp
+4_Alzheimer_2,5,False,"[[38, 143]]",1,3,"[8, 2, 11]",Give two symp
+4_Alzheimer_2,5,False,"[[38, 143]]",1,3,"[8, 2, 11]",Give two symp
+4_Alzheimer_2,5,False,"[[38, 143]]",1,3,"[8, 2, 11]",Give two symp
+4_Alzheimer_2,7,False,"[[693, 708]]",1,1,[10],What is the aim of Jame
+4_Alzheimer_2,7,False,"[[693, 708]]",1,1,[10],What is the aim of Jame
+4_Alzheimer_2,7,False,"[[693, 708]]",1,1,[10],What is the aim of Jame
+4_Alzheimer_2,7,False,"[[693, 708]]",1,1,[10],What is the aim of Jame
+4_Alzheimer_2,7,False,"[[693, 708]]",1,1,[10],What is the aim of Jame
+4_Alzheimer_2,9,True,"[[190, 251]]",1,0,[14],Why is there no progress in 
+4_Alzheimer_2,9,True,"[[190, 251]]",1,0,[14],Why is there no progress in 
+4_Alzheimer_2,9,True,"[[190, 251]]",1,0,[14],Why is there no progress in 
+4_Alzheimer_2,9,True,"[[190, 251]]",1,0,[14],Why is there no progress in 
+4_Alzheimer_2,9,True,"[[190, 251]]",1,0,[14],Why is there no progress in 
+4_Alzheimer_2,10,False,"[[432, 518]]",1,4,"[8, 2, 11, 12]",What is the approxima
+4_Alzheimer_2,10,False,"[[432, 518]]",1,4,"[8, 2, 11, 12]",What is the approxima
+4_Alzheimer_2,10,False,"[[432, 518]]",1,4,"[8, 2, 11, 12]",What is the approxima
+4_Alzheimer_2,10,False,"[[432, 518]]",1,4,"[8, 2, 11, 12]",What is the approxima
+4_Alzheimer_2,10,False,"[[432, 518]]",1,4,"[8, 2, 11, 12]",What is the approxima
+4_Alzheimer_2,13,False,"[[262, 290]]",1,1,[11],Why are there setbacks in de
+4_Alzheimer_2,13,False,"[[262, 290]]",1,1,[11],Why are there setbacks in de
+4_Alzheimer_2,13,False,"[[262, 290]]",1,1,[11],Why are there setbacks in de
+4_Alzheimer_2,13,False,"[[262, 290]]",1,1,[11],Why are there setbacks in de
+4_Alzheimer_2,13,False,"[[262, 290]]",1,1,[11],Why are there setbacks in de
+4_Alzheimer_3,1,False,"[[784, 795]]",1,4,"[8, 9, 2, 11]",What would an Alzheimer relative envisage w
+4_Alzheimer_3,1,False,"[[784, 795]]",1,4,"[8, 9, 2, 11]",What would an Alzheimer relative envisage w
+4_Alzheimer_3,1,False,"[[784, 795]]",1,4,"[8, 9, 2, 11]",What would an Alzheimer relative envisage w
+4_Alzheimer_3,1,False,"[[784, 795]]",1,4,"[8, 9, 2, 11]",What would an Alzheimer relative envisage w
+4_Alzheimer_3,1,False,"[[784, 795]]",1,4,"[8, 9, 2, 11]",What would an Alzheimer relative envisage w
+4_Alzheimer_3,8,False,"[[598, 611]]",1,1,[2],Is it possible for Alann
+4_Alzheimer_3,8,False,"[[598, 611]]",1,1,[2],Is it possible for Alann
+4_Alzheimer_3,8,False,"[[598, 611]]",1,1,[2],Is it possible for Alann
+4_Alzheimer_3,8,False,"[[598, 611]]",1,1,[2],Is it possible for Alann
+4_Alzheimer_3,8,False,"[[598, 611]]",1,1,[2],Is it possible for Alann
+4_Alzheimer_3,10,False,"[[859, 875]]",1,2,"[2, 11]",Name a reason why Alanna's father
+4_Alzheimer_3,10,False,"[[859, 875]]",1,2,"[2, 11]",Name a reason why Alanna's father
+4_Alzheimer_3,10,False,"[[859, 875]]",1,2,"[2, 11]",Name a reason why Alanna's father
+4_Alzheimer_3,10,False,"[[859, 875]]",1,2,"[2, 11]",Name a reason why Alanna's father
+4_Alzheimer_3,10,False,"[[859, 875]]",1,2,"[2, 11]",Name a reason why Alanna's father
+4_Alzheimer_3,13,True,"[[41, 67]]",1,0,[14],What does the help in getting dress
+4_Alzheimer_3,13,True,"[[41, 67]]",1,0,[14],What does the help in getting dress
+4_Alzheimer_3,13,True,"[[41, 67]]",1,0,[14],What does the help in getting dress
+4_Alzheimer_3,13,True,"[[41, 67]]",1,0,[14],What does the help in getting dress
+4_Alzheimer_3,13,True,"[[41, 67]]",1,0,[14],What does the help in getting dress
+4_Alzheimer_3,14,False,"[[93, 116]]",1,2,"[9, 11]",How many people with dementia are predicted to exist in t
+4_Alzheimer_3,14,False,"[[93, 116]]",1,2,"[9, 11]",How many people with dementia are predicted to exist in t
+4_Alzheimer_3,14,False,"[[93, 116]]",1,2,"[9, 11]",How many people with dementia are predicted to exist in t
+4_Alzheimer_3,14,False,"[[93, 116]]",1,2,"[9, 11]",How many people with dementia are predicted to exist in t
+4_Alzheimer_3,14,False,"[[93, 116]]",1,2,"[9, 11]",How many people with dementia are predicted to exist in t
+4_Alzheimer_4,4,False,"[[723, 1405]]",1,4,"[8, 11, 3, 12]",Can the income of an Alzheimer's f
+4_Alzheimer_4,4,False,"[[723, 1405]]",1,4,"[8, 11, 3, 12]",Can the income of an Alzheimer's f
+4_Alzheimer_4,4,False,"[[723, 1405]]",1,4,"[8, 11, 3, 12]",Can the income of an Alzheimer's f
+4_Alzheimer_4,4,False,"[[723, 1405]]",1,4,"[8, 11, 3, 12]",Can the income of an Alzheimer's f
+4_Alzheimer_4,4,False,"[[723, 1405]]",1,4,"[8, 11, 3, 12]",Can the income of an Alzheimer's f
+4_Alzheimer_4,5,False,"[[308, 333]]",1,1,[8],What will happen if the care needed by an Alzheime
+4_Alzheimer_4,5,False,"[[308, 333]]",1,1,[8],What will happen if the care needed by an Alzheime
+4_Alzheimer_4,5,False,"[[308, 333]]",1,1,[8],What will happen if the care needed by an Alzheime
+4_Alzheimer_4,5,False,"[[308, 333]]",1,1,[8],What will happen if the care needed by an Alzheime
+4_Alzheimer_4,5,False,"[[308, 333]]",1,1,[8],What will happen if the care needed by an Alzheime
+4_Alzheimer_4,6,False,"[[1614, 1655]]",1,1,[2],Give three examples o
+4_Alzheimer_4,6,False,"[[1614, 1655]]",1,1,[2],Give three examples o
+4_Alzheimer_4,6,False,"[[1614, 1655]]",1,1,[2],Give three examples o
+4_Alzheimer_4,6,False,"[[1614, 1655]]",1,1,[2],Give three examples o
+4_Alzheimer_4,6,False,"[[1614, 1655]]",1,1,[2],Give three examples o
+4_Alzheimer_4,7,False,"[[790, 1141]]",1,3,"[8, 2, 11]","All but one of the following are reasons why a total of $100,000 for the "
+4_Alzheimer_4,7,False,"[[790, 1141]]",1,3,"[8, 2, 11]","All but one of the following are reasons why a total of $100,000 for the "
+4_Alzheimer_4,7,False,"[[790, 1141]]",1,3,"[8, 2, 11]","All but one of the following are reasons why a total of $100,000 for the "
+4_Alzheimer_4,7,False,"[[790, 1141]]",1,3,"[8, 2, 11]","All but one of the following are reasons why a total of $100,000 for the "
+4_Alzheimer_4,7,False,"[[790, 1141]]",1,3,"[8, 2, 11]","All but one of the following are reasons why a total of $100,000 for the "
+4_Alzheimer_4,8,False,"[[1713, 1795]]",1,2,"[8, 11]",How can a farmer avoid pa
+4_Alzheimer_4,8,False,"[[1713, 1795]]",1,2,"[8, 11]",How can a farmer avoid pa
+4_Alzheimer_4,8,False,"[[1713, 1795]]",1,2,"[8, 11]",How can a farmer avoid pa
+4_Alzheimer_4,8,False,"[[1713, 1795]]",1,2,"[8, 11]",How can a farmer avoid pa
+4_Alzheimer_4,8,False,"[[1713, 1795]]",1,2,"[8, 11]",How can a farmer avoid pa
+4_Alzheimer_4,10,False,"[[2239, 2255]]",1,0,[13],Why is the middle cla
+4_Alzheimer_4,10,False,"[[2239, 2255]]",1,0,[13],Why is the middle cla
+4_Alzheimer_4,10,False,"[[2239, 2255]]",1,0,[13],Why is the middle cla
+4_Alzheimer_4,10,False,"[[2239, 2255]]",1,0,[13],Why is the middle cla
+4_Alzheimer_4,10,False,"[[2239, 2255]]",1,0,[13],Why is the middle cla
+3_Music and Society_5,7,False,"[[1421, 1436]]",1,2,"[8, 2]","How does the ""Studio per il piano"
+3_Music and Society_5,7,False,"[[1421, 1436]]",1,2,"[8, 2]","How does the ""Studio per il piano"
+3_Music and Society_5,7,False,"[[1421, 1436]]",1,2,"[8, 2]","How does the ""Studio per il piano"
+3_Music and Society_5,7,False,"[[1421, 1436]]",1,2,"[8, 2]","How does the ""Studio per il piano"
+3_Music and Society_5,7,False,"[[1421, 1436]]",1,2,"[8, 2]","How does the ""Studio per il piano"
+3_Music and Society_5,20,False,"[[1421, 1436]]",1,2,"[8, 2]","How does the ""Studio per il piano"
+3_Music and Society_5,20,False,"[[1421, 1436]]",1,2,"[8, 2]","How does the ""Studio per il piano"
+3_Music and Society_5,20,False,"[[1421, 1436]]",1,2,"[8, 2]","How does the ""Studio per il piano"
+3_Music and Society_5,20,False,"[[1421, 1436]]",1,2,"[8, 2]","How does the ""Studio per il piano"
+3_Music and Society_5,20,False,"[[1421, 1436]]",1,2,"[8, 2]","How does the ""Studio per il piano"
+3_Music and Society_5,9,False,"[[319, 340], [453, 469]]",2,1,[0],Which country di
+3_Music and Society_5,9,False,"[[319, 340], [453, 469]]",2,1,[0],Which country di
+3_Music and Society_5,9,False,"[[319, 340], [453, 469]]",2,1,[0],Which country di
+3_Music and Society_5,9,False,"[[319, 340], [453, 469]]",2,1,[0],Which country di
+3_Music and Society_5,9,False,"[[319, 340], [453, 469]]",2,1,[0],Which country di
+3_Music and Society_5,10,False,"[[196, 212]]",1,1,[2],How did Cramer become familiar
+3_Music and Society_5,10,False,"[[196, 212]]",1,1,[2],How did Cramer become familiar
+3_Music and Society_5,10,False,"[[196, 212]]",1,1,[2],How did Cramer become familiar
+3_Music and Society_5,10,False,"[[196, 212]]",1,1,[2],How did Cramer become familiar
+3_Music and Society_5,10,False,"[[196, 212]]",1,1,[2],How did Cramer become familiar
+3_Music and Society_5,11,True,"[[500, 549]]",1,0,[14],Why did Cramer wri
+3_Music and Society_5,11,True,"[[500, 549]]",1,0,[14],Why did Cramer wri
+3_Music and Society_5,11,True,"[[500, 549]]",1,0,[14],Why did Cramer wri
+3_Music and Society_5,11,True,"[[500, 549]]",1,0,[14],Why did Cramer wri
+3_Music and Society_5,11,True,"[[500, 549]]",1,0,[14],Why did Cramer wri
+3_Music and Society_5,1,True,"[[1671, 1746]]",1,0,[14],How well-known are Cra
+3_Music and Society_5,1,True,"[[1671, 1746]]",1,0,[14],How well-known are Cra
+3_Music and Society_5,1,True,"[[1671, 1746]]",1,0,[14],How well-known are Cra
+3_Music and Society_5,1,True,"[[1671, 1746]]",1,0,[14],How well-known are Cra
+3_Music and Society_5,1,True,"[[1671, 1746]]",1,0,[14],How well-known are Cra
+3_Music and Society_5,16,True,"[[1671, 1746]]",1,0,[14],How well-known are Cra
+3_Music and Society_5,16,True,"[[1671, 1746]]",1,0,[14],How well-known are Cra
+3_Music and Society_5,16,True,"[[1671, 1746]]",1,0,[14],How well-known are Cra
+3_Music and Society_5,16,True,"[[1671, 1746]]",1,0,[14],How well-known are Cra
+3_Music and Society_5,16,True,"[[1671, 1746]]",1,0,[14],How well-known are Cra
+3_Music and Society_5,5,False,"[[722, 736]]",1,1,[2],Which organisation appointe
+3_Music and Society_5,5,False,"[[722, 736]]",1,1,[2],Which organisation appointe
+3_Music and Society_5,5,False,"[[722, 736]]",1,1,[2],Which organisation appointe
+3_Music and Society_5,5,False,"[[722, 736]]",1,1,[2],Which organisation appointe
+3_Music and Society_5,5,False,"[[722, 736]]",1,1,[2],Which organisation appointe
+3_Music and Society_5,18,False,"[[722, 736]]",1,1,[2],Which organisation appointe
+3_Music and Society_5,18,False,"[[722, 736]]",1,1,[2],Which organisation appointe
+3_Music and Society_5,18,False,"[[722, 736]]",1,1,[2],Which organisation appointe
+3_Music and Society_5,18,False,"[[722, 736]]",1,1,[2],Which organisation appointe
+3_Music and Society_5,18,False,"[[722, 736]]",1,1,[2],Which organisation appointe
+3_Music and Society_5,6,False,"[[1288, 1311]]",1,3,"[8, 2, 11]","Why is the ""Studio per il pi"
+3_Music and Society_5,6,False,"[[1288, 1311]]",1,3,"[8, 2, 11]","Why is the ""Studio per il pi"
+3_Music and Society_5,6,False,"[[1288, 1311]]",1,3,"[8, 2, 11]","Why is the ""Studio per il pi"
+3_Music and Society_5,6,False,"[[1288, 1311]]",1,3,"[8, 2, 11]","Why is the ""Studio per il pi"
+3_Music and Society_5,6,False,"[[1288, 1311]]",1,3,"[8, 2, 11]","Why is the ""Studio per il pi"
+3_Music and Society_5,19,False,"[[1288, 1311]]",1,3,"[8, 2, 11]","Why is the ""Studio per il pi"
+3_Music and Society_5,19,False,"[[1288, 1311]]",1,3,"[8, 2, 11]","Why is the ""Studio per il pi"
+3_Music and Society_5,19,False,"[[1288, 1311]]",1,3,"[8, 2, 11]","Why is the ""Studio per il pi"
+3_Music and Society_5,19,False,"[[1288, 1311]]",1,3,"[8, 2, 11]","Why is the ""Studio per il pi"
+3_Music and Society_5,19,False,"[[1288, 1311]]",1,3,"[8, 2, 11]","Why is the ""Studio per il pi"
+3_Music and Society_6,4,False,"[[598, 615]]",1,2,"[9, 12]",Which singer made a hit record whose
+3_Music and Society_6,4,False,"[[598, 615]]",1,2,"[9, 12]",Which singer made a hit record whose
+3_Music and Society_6,4,False,"[[598, 615]]",1,2,"[9, 12]",Which singer made a hit record whose
+3_Music and Society_6,4,False,"[[598, 615]]",1,2,"[9, 12]",Which singer made a hit record whose
+3_Music and Society_6,4,False,"[[598, 615]]",1,2,"[9, 12]",Which singer made a hit record whose
+3_Music and Society_6,7,False,"[[257, 306]]",1,4,"[0, 8, 11, 9]",How is musique 
+3_Music and Society_6,7,False,"[[257, 306]]",1,4,"[0, 8, 11, 9]",How is musique 
+3_Music and Society_6,7,False,"[[257, 306]]",1,4,"[0, 8, 11, 9]",How is musique 
+3_Music and Society_6,7,False,"[[257, 306]]",1,4,"[0, 8, 11, 9]",How is musique 
+3_Music and Society_6,7,False,"[[257, 306]]",1,4,"[0, 8, 11, 9]",How is musique 
+3_Music and Society_6,2,False,"[[321, 380]]",1,6,"[2, 6, 8, 9, 11, 12]",How did Kool Herc
+3_Music and Society_6,2,False,"[[321, 380]]",1,6,"[2, 6, 8, 9, 11, 12]",How did Kool Herc
+3_Music and Society_6,2,False,"[[321, 380]]",1,6,"[2, 6, 8, 9, 11, 12]",How did Kool Herc
+3_Music and Society_6,2,False,"[[321, 380]]",1,6,"[2, 6, 8, 9, 11, 12]",How did Kool Herc
+3_Music and Society_6,2,False,"[[321, 380]]",1,6,"[2, 6, 8, 9, 11, 12]",How did Kool Herc
+3_Music and Society_6,8,False,"[[321, 380]]",1,6,"[2, 6, 8, 9, 11, 12]",How did Kool Herc
+3_Music and Society_6,8,False,"[[321, 380]]",1,6,"[2, 6, 8, 9, 11, 12]",How did Kool Herc
+3_Music and Society_6,8,False,"[[321, 380]]",1,6,"[2, 6, 8, 9, 11, 12]",How did Kool Herc
+3_Music and Society_6,8,False,"[[321, 380]]",1,6,"[2, 6, 8, 9, 11, 12]",How did Kool Herc
+3_Music and Society_6,8,False,"[[321, 380]]",1,6,"[2, 6, 8, 9, 11, 12]",How did Kool Herc
+3_Music and Society_6,10,False,"[[1280, 1325]]",1,6,"[0, 2, 8, 9, 11, 12]",Which song used parts of
+3_Music and Society_6,10,False,"[[1280, 1325]]",1,6,"[0, 2, 8, 9, 11, 12]",Which song used parts of
+3_Music and Society_6,10,False,"[[1280, 1325]]",1,6,"[0, 2, 8, 9, 11, 12]",Which song used parts of
+3_Music and Society_6,10,False,"[[1280, 1325]]",1,6,"[0, 2, 8, 9, 11, 12]",Which song used parts of
+3_Music and Society_6,10,False,"[[1280, 1325]]",1,6,"[0, 2, 8, 9, 11, 12]",Which song used parts of
+3_Music and Society_6,12,True,"[[598, 615]]",1,0,[14],Which singer originally called LaDonna Adrian Gaines mad
+3_Music and Society_6,12,True,"[[598, 615]]",1,0,[14],Which singer originally called LaDonna Adrian Gaines mad
+3_Music and Society_6,12,True,"[[598, 615]]",1,0,[14],Which singer originally called LaDonna Adrian Gaines mad
+3_Music and Society_6,12,True,"[[598, 615]]",1,0,[14],Which singer originally called LaDonna Adrian Gaines mad
+3_Music and Society_6,12,True,"[[598, 615]]",1,0,[14],Which singer originally called LaDonna Adrian Gaines mad
+3_Music and Society_6,13,False,"[[239, 257]]",1,5,"[8, 9, 2, 11, 12]","Russolo's ""in"
+3_Music and Society_6,13,False,"[[239, 257]]",1,5,"[8, 9, 2, 11, 12]","Russolo's ""in"
+3_Music and Society_6,13,False,"[[239, 257]]",1,5,"[8, 9, 2, 11, 12]","Russolo's ""in"
+3_Music and Society_6,13,False,"[[239, 257]]",1,5,"[8, 9, 2, 11, 12]","Russolo's ""in"
+3_Music and Society_6,13,False,"[[239, 257]]",1,5,"[8, 9, 2, 11, 12]","Russolo's ""in"
+3_Music and Society_6,19,False,"[[321, 402], [973, 1081], [1493, 1530]]",3,6,"[0, 2, 8, 9, 11, 12]",Which DJs have pro
+3_Music and Society_6,19,False,"[[321, 402], [973, 1081], [1493, 1530]]",3,6,"[0, 2, 8, 9, 11, 12]",Which DJs have pro
+3_Music and Society_6,19,False,"[[321, 402], [973, 1081], [1493, 1530]]",3,6,"[0, 2, 8, 9, 11, 12]",Which DJs have pro
+3_Music and Society_6,19,False,"[[321, 402], [973, 1081], [1493, 1530]]",3,6,"[0, 2, 8, 9, 11, 12]",Which DJs have pro
+3_Music and Society_6,19,False,"[[321, 402], [973, 1081], [1493, 1530]]",3,6,"[0, 2, 8, 9, 11, 12]",Which DJs have pro
+3_Music and Society_7,3,False,"[[229, 272]]",1,6,"[2, 4, 8, 9, 11, 12]",What sort of music was written fo
+3_Music and Society_7,3,False,"[[229, 272]]",1,6,"[2, 4, 8, 9, 11, 12]",What sort of music was written fo
+3_Music and Society_7,3,False,"[[229, 272]]",1,6,"[2, 4, 8, 9, 11, 12]",What sort of music was written fo
+3_Music and Society_7,3,False,"[[229, 272]]",1,6,"[2, 4, 8, 9, 11, 12]",What sort of music was written fo
+3_Music and Society_7,3,False,"[[229, 272]]",1,6,"[2, 4, 8, 9, 11, 12]",What sort of music was written fo
+3_Music and Society_7,9,False,"[[229, 272]]",1,6,"[2, 4, 8, 9, 11, 12]",What sort of music was written fo
+3_Music and Society_7,9,False,"[[229, 272]]",1,6,"[2, 4, 8, 9, 11, 12]",What sort of music was written fo
+3_Music and Society_7,9,False,"[[229, 272]]",1,6,"[2, 4, 8, 9, 11, 12]",What sort of music was written fo
+3_Music and Society_7,9,False,"[[229, 272]]",1,6,"[2, 4, 8, 9, 11, 12]",What sort of music was written fo
+3_Music and Society_7,9,False,"[[229, 272]]",1,6,"[2, 4, 8, 9, 11, 12]",What sort of music was written fo
+3_Music and Society_7,4,False,"[[780, 816]]",1,3,"[12, 11, 4]",What approach did Cop
+3_Music and Society_7,4,False,"[[780, 816]]",1,3,"[12, 11, 4]",What approach did Cop
+3_Music and Society_7,4,False,"[[780, 816]]",1,3,"[12, 11, 4]",What approach did Cop
+3_Music and Society_7,4,False,"[[780, 816]]",1,3,"[12, 11, 4]",What approach did Cop
+3_Music and Society_7,4,False,"[[780, 816]]",1,3,"[12, 11, 4]",What approach did Cop
+3_Music and Society_7,5,False,"[[1361, 1409]]",1,4,"[8, 9, 11, 12]",What caused an improveme
+3_Music and Society_7,5,False,"[[1361, 1409]]",1,4,"[8, 9, 11, 12]",What caused an improveme
+3_Music and Society_7,5,False,"[[1361, 1409]]",1,4,"[8, 9, 11, 12]",What caused an improveme
+3_Music and Society_7,5,False,"[[1361, 1409]]",1,4,"[8, 9, 11, 12]",What caused an improveme
+3_Music and Society_7,5,False,"[[1361, 1409]]",1,4,"[8, 9, 11, 12]",What caused an improveme
+3_Music and Society_7,13,False,"[[1361, 1409]]",1,4,"[8, 9, 11, 12]",What caused an improveme
+3_Music and Society_7,13,False,"[[1361, 1409]]",1,4,"[8, 9, 11, 12]",What caused an improveme
+3_Music and Society_7,13,False,"[[1361, 1409]]",1,4,"[8, 9, 11, 12]",What caused an improveme
+3_Music and Society_7,13,False,"[[1361, 1409]]",1,4,"[8, 9, 11, 12]",What caused an improveme
+3_Music and Society_7,13,False,"[[1361, 1409]]",1,4,"[8, 9, 11, 12]",What caused an improveme
+3_Music and Society_7,16,False,"[[816, 902]]",1,6,"[2, 3, 8, 9, 11, 12]","Why was the music for ""The"
+3_Music and Society_7,16,False,"[[816, 902]]",1,6,"[2, 3, 8, 9, 11, 12]","Why was the music for ""The"
+3_Music and Society_7,16,False,"[[816, 902]]",1,6,"[2, 3, 8, 9, 11, 12]","Why was the music for ""The"
+3_Music and Society_7,16,False,"[[816, 902]]",1,6,"[2, 3, 8, 9, 11, 12]","Why was the music for ""The"
+3_Music and Society_7,16,False,"[[816, 902]]",1,6,"[2, 3, 8, 9, 11, 12]","Why was the music for ""The"
+3_Music and Society_7,17,False,"[[532, 676]]",1,7,"[0, 2, 3, 8, 9, 11, 12]",How did Alfred Newm
+3_Music and Society_7,17,False,"[[532, 676]]",1,7,"[0, 2, 3, 8, 9, 11, 12]",How did Alfred Newm
+3_Music and Society_7,17,False,"[[532, 676]]",1,7,"[0, 2, 3, 8, 9, 11, 12]",How did Alfred Newm
+3_Music and Society_7,17,False,"[[532, 676]]",1,7,"[0, 2, 3, 8, 9, 11, 12]",How did Alfred Newm
+3_Music and Society_7,17,False,"[[532, 676]]",1,7,"[0, 2, 3, 8, 9, 11, 12]",How did Alfred Newm
+3_Music and Society_7,18,False,"[[170, 208]]",1,5,"[0, 8, 2, 11, 9]",Why was electronic music 
+3_Music and Society_7,18,False,"[[170, 208]]",1,5,"[0, 8, 2, 11, 9]",Why was electronic music 
+3_Music and Society_7,18,False,"[[170, 208]]",1,5,"[0, 8, 2, 11, 9]",Why was electronic music 
+3_Music and Society_7,18,False,"[[170, 208]]",1,5,"[0, 8, 2, 11, 9]",Why was electronic music 
+3_Music and Society_7,18,False,"[[170, 208]]",1,5,"[0, 8, 2, 11, 9]",Why was electronic music 
+3_Music and Society_7,19,False,"[[943, 964], [816, 902], [1287, 1333], [1015, 1080], [1092, 1150]]",5,10,"[0, 2, 3, 4, 6, 7, 8, 9, 11, 12]",Which of the following
+3_Music and Society_7,19,False,"[[943, 964], [816, 902], [1287, 1333], [1015, 1080], [1092, 1150]]",5,10,"[0, 2, 3, 4, 6, 7, 8, 9, 11, 12]",Which of the following
+3_Music and Society_7,19,False,"[[943, 964], [816, 902], [1287, 1333], [1015, 1080], [1092, 1150]]",5,10,"[0, 2, 3, 4, 6, 7, 8, 9, 11, 12]",Which of the following
+3_Music and Society_7,19,False,"[[943, 964], [816, 902], [1287, 1333], [1015, 1080], [1092, 1150]]",5,10,"[0, 2, 3, 4, 6, 7, 8, 9, 11, 12]",Which of the following
+3_Music and Society_7,19,False,"[[943, 964], [816, 902], [1287, 1333], [1015, 1080], [1092, 1150]]",5,10,"[0, 2, 3, 4, 6, 7, 8, 9, 11, 12]",Which of the following
+3_Music and Society_7,20,False,"[[272, 294]]",1,4,"[8, 9, 3, 12]",Why did European com
+3_Music and Society_7,20,False,"[[272, 294]]",1,4,"[8, 9, 3, 12]",Why did European com
+3_Music and Society_7,20,False,"[[272, 294]]",1,4,"[8, 9, 3, 12]",Why did European com
+3_Music and Society_7,20,False,"[[272, 294]]",1,4,"[8, 9, 3, 12]",Why did European com
+3_Music and Society_7,20,False,"[[272, 294]]",1,4,"[8, 9, 3, 12]",Why did European com
+3_Music and Society_8,7,False,"[[570, 618]]",1,6,"[0, 2, 8, 9, 11, 12]",Why is the analysis work of 
+3_Music and Society_8,7,False,"[[570, 618]]",1,6,"[0, 2, 8, 9, 11, 12]",Why is the analysis work of 
+3_Music and Society_8,7,False,"[[570, 618]]",1,6,"[0, 2, 8, 9, 11, 12]",Why is the analysis work of 
+3_Music and Society_8,7,False,"[[570, 618]]",1,6,"[0, 2, 8, 9, 11, 12]",Why is the analysis work of 
+3_Music and Society_8,7,False,"[[570, 618]]",1,6,"[0, 2, 8, 9, 11, 12]",Why is the analysis work of 
+3_Music and Society_8,11,False,"[[14, 245]]",1,10,"[0, 2, 3, 5, 6, 7, 8, 9, 11, 12]",What was the main form of musical
+3_Music and Society_8,11,False,"[[14, 245]]",1,10,"[0, 2, 3, 5, 6, 7, 8, 9, 11, 12]",What was the main form of musical
+3_Music and Society_8,11,False,"[[14, 245]]",1,10,"[0, 2, 3, 5, 6, 7, 8, 9, 11, 12]",What was the main form of musical
+3_Music and Society_8,11,False,"[[14, 245]]",1,10,"[0, 2, 3, 5, 6, 7, 8, 9, 11, 12]",What was the main form of musical
+3_Music and Society_8,11,False,"[[14, 245]]",1,10,"[0, 2, 3, 5, 6, 7, 8, 9, 11, 12]",What was the main form of musical
+3_Music and Society_8,13,False,"[[395, 429]]",1,5,"[8, 9, 3, 12, 6]",What is the aim of the 19th-cent
+3_Music and Society_8,13,False,"[[395, 429]]",1,5,"[8, 9, 3, 12, 6]",What is the aim of the 19th-cent
+3_Music and Society_8,13,False,"[[395, 429]]",1,5,"[8, 9, 3, 12, 6]",What is the aim of the 19th-cent
+3_Music and Society_8,13,False,"[[395, 429]]",1,5,"[8, 9, 3, 12, 6]",What is the aim of the 19th-cent
+3_Music and Society_8,13,False,"[[395, 429]]",1,5,"[8, 9, 3, 12, 6]",What is the aim of the 19th-cent
+3_Music and Society_8,15,False,"[[737, 773]]",1,4,"[8, 9, 2, 11]",Name a criticism of m
+3_Music and Society_8,15,False,"[[737, 773]]",1,4,"[8, 9, 2, 11]",Name a criticism of m
+3_Music and Society_8,15,False,"[[737, 773]]",1,4,"[8, 9, 2, 11]",Name a criticism of m
+3_Music and Society_8,15,False,"[[737, 773]]",1,4,"[8, 9, 2, 11]",Name a criticism of m
+3_Music and Society_8,15,False,"[[737, 773]]",1,4,"[8, 9, 2, 11]",Name a criticism of m
+3_Music and Society_8,19,False,"[[224, 245]]",1,1,[2],When did E.T.A. Hoffmann write
+3_Music and Society_8,19,False,"[[224, 245]]",1,1,[2],When did E.T.A. Hoffmann write
+3_Music and Society_8,19,False,"[[224, 245]]",1,1,[2],When did E.T.A. Hoffmann write
+3_Music and Society_8,19,False,"[[224, 245]]",1,1,[2],When did E.T.A. Hoffmann write
+3_Music and Society_8,19,False,"[[224, 245]]",1,1,[2],When did E.T.A. Hoffmann write
+2_Climate Change_9,2,False,"[[293, 324]]",1,5,"[8, 1, 11, 12, 9]",What is the main source of greenho
+2_Climate Change_9,2,False,"[[293, 324]]",1,5,"[8, 1, 11, 12, 9]",What is the main source of greenho
+2_Climate Change_9,2,False,"[[293, 324]]",1,5,"[8, 1, 11, 12, 9]",What is the main source of greenho
+2_Climate Change_9,2,False,"[[293, 324]]",1,5,"[8, 1, 11, 12, 9]",What is the main source of greenho
+2_Climate Change_9,2,False,"[[293, 324]]",1,5,"[8, 1, 11, 12, 9]",What is the main source of greenho
+2_Climate Change_9,10,False,"[[72, 102]]",1,6,"[2, 3, 8, 9, 11, 12]",What consequence would a drop
+2_Climate Change_9,10,False,"[[72, 102]]",1,6,"[2, 3, 8, 9, 11, 12]",What consequence would a drop
+2_Climate Change_9,10,False,"[[72, 102]]",1,6,"[2, 3, 8, 9, 11, 12]",What consequence would a drop
+2_Climate Change_9,10,False,"[[72, 102]]",1,6,"[2, 3, 8, 9, 11, 12]",What consequence would a drop
+2_Climate Change_9,10,False,"[[72, 102]]",1,6,"[2, 3, 8, 9, 11, 12]",What consequence would a drop
+2_Climate Change_9,15,False,"[[72, 102]]",1,6,"[2, 3, 8, 9, 11, 12]",What consequence would a drop
+2_Climate Change_9,15,False,"[[72, 102]]",1,6,"[2, 3, 8, 9, 11, 12]",What consequence would a drop
+2_Climate Change_9,15,False,"[[72, 102]]",1,6,"[2, 3, 8, 9, 11, 12]",What consequence would a drop
+2_Climate Change_9,15,False,"[[72, 102]]",1,6,"[2, 3, 8, 9, 11, 12]",What consequence would a drop
+2_Climate Change_9,15,False,"[[72, 102]]",1,6,"[2, 3, 8, 9, 11, 12]",What consequence would a drop
+2_Climate Change_9,12,False,"[[1209, 1282]]",1,8,"[2, 3, 4, 6, 8, 9, 11, 12]",What places are suggested for burying 
+2_Climate Change_9,12,False,"[[1209, 1282]]",1,8,"[2, 3, 4, 6, 8, 9, 11, 12]",What places are suggested for burying 
+2_Climate Change_9,12,False,"[[1209, 1282]]",1,8,"[2, 3, 4, 6, 8, 9, 11, 12]",What places are suggested for burying 
+2_Climate Change_9,12,False,"[[1209, 1282]]",1,8,"[2, 3, 4, 6, 8, 9, 11, 12]",What places are suggested for burying 
+2_Climate Change_9,12,False,"[[1209, 1282]]",1,8,"[2, 3, 4, 6, 8, 9, 11, 12]",What places are suggested for burying 
+2_Climate Change_9,13,False,"[[1209, 1282]]",1,8,"[2, 3, 4, 6, 8, 9, 11, 12]",What places are suggested for burying 
+2_Climate Change_9,13,False,"[[1209, 1282]]",1,8,"[2, 3, 4, 6, 8, 9, 11, 12]",What places are suggested for burying 
+2_Climate Change_9,13,False,"[[1209, 1282]]",1,8,"[2, 3, 4, 6, 8, 9, 11, 12]",What places are suggested for burying 
+2_Climate Change_9,13,False,"[[1209, 1282]]",1,8,"[2, 3, 4, 6, 8, 9, 11, 12]",What places are suggested for burying 
+2_Climate Change_9,13,False,"[[1209, 1282]]",1,8,"[2, 3, 4, 6, 8, 9, 11, 12]",What places are suggested for burying 
+2_Climate Change_9,10,False,"[[72, 102]]",1,6,"[2, 3, 8, 9, 11, 12]",What consequence would a drop
+2_Climate Change_9,10,False,"[[72, 102]]",1,6,"[2, 3, 8, 9, 11, 12]",What consequence would a drop
+2_Climate Change_9,10,False,"[[72, 102]]",1,6,"[2, 3, 8, 9, 11, 12]",What consequence would a drop
+2_Climate Change_9,10,False,"[[72, 102]]",1,6,"[2, 3, 8, 9, 11, 12]",What consequence would a drop
+2_Climate Change_9,10,False,"[[72, 102]]",1,6,"[2, 3, 8, 9, 11, 12]",What consequence would a drop
+2_Climate Change_9,15,False,"[[72, 102]]",1,6,"[2, 3, 8, 9, 11, 12]",What consequence would a drop
+2_Climate Change_9,15,False,"[[72, 102]]",1,6,"[2, 3, 8, 9, 11, 12]",What consequence would a drop
+2_Climate Change_9,15,False,"[[72, 102]]",1,6,"[2, 3, 8, 9, 11, 12]",What consequence would a drop
+2_Climate Change_9,15,False,"[[72, 102]]",1,6,"[2, 3, 8, 9, 11, 12]",What consequence would a drop
+2_Climate Change_9,15,False,"[[72, 102]]",1,6,"[2, 3, 8, 9, 11, 12]",What consequence would a drop
+2_Climate Change_9,17,False,"[[1009, 1045]]",1,6,"[2, 6, 8, 9, 11, 12]",What will essentially make a signifi
+2_Climate Change_9,17,False,"[[1009, 1045]]",1,6,"[2, 6, 8, 9, 11, 12]",What will essentially make a signifi
+2_Climate Change_9,17,False,"[[1009, 1045]]",1,6,"[2, 6, 8, 9, 11, 12]",What will essentially make a signifi
+2_Climate Change_9,17,False,"[[1009, 1045]]",1,6,"[2, 6, 8, 9, 11, 12]",What will essentially make a signifi
+2_Climate Change_9,17,False,"[[1009, 1045]]",1,6,"[2, 6, 8, 9, 11, 12]",What will essentially make a signifi
+2_Climate Change_9,18,False,"[[102, 202]]",1,10,"[0, 2, 3, 4, 6, 7, 8, 9, 11, 12]",Which problem is similar 
+2_Climate Change_9,18,False,"[[102, 202]]",1,10,"[0, 2, 3, 4, 6, 7, 8, 9, 11, 12]",Which problem is similar 
+2_Climate Change_9,18,False,"[[102, 202]]",1,10,"[0, 2, 3, 4, 6, 7, 8, 9, 11, 12]",Which problem is similar 
+2_Climate Change_9,18,False,"[[102, 202]]",1,10,"[0, 2, 3, 4, 6, 7, 8, 9, 11, 12]",Which problem is similar 
+2_Climate Change_9,18,False,"[[102, 202]]",1,10,"[0, 2, 3, 4, 6, 7, 8, 9, 11, 12]",Which problem is similar 
+2_Climate Change_10,2,False,"[[379, 428]]",1,3,"[8, 9, 11]",Where was there a climat
+2_Climate Change_10,2,False,"[[379, 428]]",1,3,"[8, 9, 11]",Where was there a climat
+2_Climate Change_10,2,False,"[[379, 428]]",1,3,"[8, 9, 11]",Where was there a climat
+2_Climate Change_10,2,False,"[[379, 428]]",1,3,"[8, 9, 11]",Where was there a climat
+2_Climate Change_10,2,False,"[[379, 428]]",1,3,"[8, 9, 11]",Where was there a climat
+2_Climate Change_10,4,False,"[[477, 506]]",1,2,"[8, 9]",Who is in charge of trying to ma
+2_Climate Change_10,4,False,"[[477, 506]]",1,2,"[8, 9]",Who is in charge of trying to ma
+2_Climate Change_10,4,False,"[[477, 506]]",1,2,"[8, 9]",Who is in charge of trying to ma
+2_Climate Change_10,4,False,"[[477, 506]]",1,2,"[8, 9]",Who is in charge of trying to ma
+2_Climate Change_10,4,False,"[[477, 506]]",1,2,"[8, 9]",Who is in charge of trying to ma
+2_Climate Change_10,5,False,"[[1063, 1080]]",1,4,"[8, 9, 6, 7]",How do polluting countries man
+2_Climate Change_10,5,False,"[[1063, 1080]]",1,4,"[8, 9, 6, 7]",How do polluting countries man
+2_Climate Change_10,5,False,"[[1063, 1080]]",1,4,"[8, 9, 6, 7]",How do polluting countries man
+2_Climate Change_10,5,False,"[[1063, 1080]]",1,4,"[8, 9, 6, 7]",How do polluting countries man
+2_Climate Change_10,5,False,"[[1063, 1080]]",1,4,"[8, 9, 6, 7]",How do polluting countries man
+2_Climate Change_10,1,False,"[[2, 44]]",1,1,[8],Where did To
+2_Climate Change_10,1,False,"[[2, 44]]",1,1,[8],Where did To
+2_Climate Change_10,1,False,"[[2, 44]]",1,1,[8],Where did To
+2_Climate Change_10,1,False,"[[2, 44]]",1,1,[8],Where did To
+2_Climate Change_10,1,False,"[[2, 44]]",1,1,[8],Where did To
+2_Climate Change_10,6,False,"[[2, 44]]",1,1,[8],Where did To
+2_Climate Change_10,6,False,"[[2, 44]]",1,1,[8],Where did To
+2_Climate Change_10,6,False,"[[2, 44]]",1,1,[8],Where did To
+2_Climate Change_10,6,False,"[[2, 44]]",1,1,[8],Where did To
+2_Climate Change_10,6,False,"[[2, 44]]",1,1,[8],Where did To
+2_Climate Change_10,12,False,"[[2075, 2146]]",1,5,"[8, 9, 11, 12, 6]",What is supposed to f
+2_Climate Change_10,12,False,"[[2075, 2146]]",1,5,"[8, 9, 11, 12, 6]",What is supposed to f
+2_Climate Change_10,12,False,"[[2075, 2146]]",1,5,"[8, 9, 11, 12, 6]",What is supposed to f
+2_Climate Change_10,12,False,"[[2075, 2146]]",1,5,"[8, 9, 11, 12, 6]",What is supposed to f
+2_Climate Change_10,12,False,"[[2075, 2146]]",1,5,"[8, 9, 11, 12, 6]",What is supposed to f
+2_Climate Change_11,4,False,"[[466, 519]]",1,5,"[8, 12, 11, 4, 6]",How can ozone depleti
+2_Climate Change_11,4,False,"[[466, 519]]",1,5,"[8, 12, 11, 4, 6]",How can ozone depleti
+2_Climate Change_11,4,False,"[[466, 519]]",1,5,"[8, 12, 11, 4, 6]",How can ozone depleti
+2_Climate Change_11,4,False,"[[466, 519]]",1,5,"[8, 12, 11, 4, 6]",How can ozone depleti
+2_Climate Change_11,4,False,"[[466, 519]]",1,5,"[8, 12, 11, 4, 6]",How can ozone depleti
+2_Climate Change_11,11,False,"[[1877, 1908]]",1,2,"[8, 9]",What is the most important decision that m
+2_Climate Change_11,11,False,"[[1877, 1908]]",1,2,"[8, 9]",What is the most important decision that m
+2_Climate Change_11,11,False,"[[1877, 1908]]",1,2,"[8, 9]",What is the most important decision that m
+2_Climate Change_11,11,False,"[[1877, 1908]]",1,2,"[8, 9]",What is the most important decision that m
+2_Climate Change_11,11,False,"[[1877, 1908]]",1,2,"[8, 9]",What is the most important decision that m
+2_Climate Change_11,16,False,"[[268, 298]]",1,2,"[8, 11]",Has the Montreal Protocol been efficient 
+2_Climate Change_11,16,False,"[[268, 298]]",1,2,"[8, 11]",Has the Montreal Protocol been efficient 
+2_Climate Change_11,16,False,"[[268, 298]]",1,2,"[8, 11]",Has the Montreal Protocol been efficient 
+2_Climate Change_11,16,False,"[[268, 298]]",1,2,"[8, 11]",Has the Montreal Protocol been efficient 
+2_Climate Change_11,16,False,"[[268, 298]]",1,2,"[8, 11]",Has the Montreal Protocol been efficient 
+2_Climate Change_11,18,False,"[[2288, 2323]]",1,5,"[8, 9, 11, 6, 7]",What are the positive aspects of the
+2_Climate Change_11,18,False,"[[2288, 2323]]",1,5,"[8, 9, 11, 6, 7]",What are the positive aspects of the
+2_Climate Change_11,18,False,"[[2288, 2323]]",1,5,"[8, 9, 11, 6, 7]",What are the positive aspects of the
+2_Climate Change_11,18,False,"[[2288, 2323]]",1,5,"[8, 9, 11, 6, 7]",What are the positive aspects of the
+2_Climate Change_11,18,False,"[[2288, 2323]]",1,5,"[8, 9, 11, 6, 7]",What are the positive aspects of the
+2_Climate Change_12,5,False,"[[219, 259]]",1,5,"[8, 9, 12, 6, 7]",Where was there a
+2_Climate Change_12,5,False,"[[219, 259]]",1,5,"[8, 9, 12, 6, 7]",Where was there a
+2_Climate Change_12,5,False,"[[219, 259]]",1,5,"[8, 9, 12, 6, 7]",Where was there a
+2_Climate Change_12,5,False,"[[219, 259]]",1,5,"[8, 9, 12, 6, 7]",Where was there a
+2_Climate Change_12,5,False,"[[219, 259]]",1,5,"[8, 9, 12, 6, 7]",Where was there a
+2_Climate Change_12,6,False,"[[294, 307], [339, 369]]",2,3,"[8, 9, 6]",Why is petrol extraction a
+2_Climate Change_12,6,False,"[[294, 307], [339, 369]]",2,3,"[8, 9, 6]",Why is petrol extraction a
+2_Climate Change_12,6,False,"[[294, 307], [339, 369]]",2,3,"[8, 9, 6]",Why is petrol extraction a
+2_Climate Change_12,6,False,"[[294, 307], [339, 369]]",2,3,"[8, 9, 6]",Why is petrol extraction a
+2_Climate Change_12,6,False,"[[294, 307], [339, 369]]",2,3,"[8, 9, 6]",Why is petrol extraction a
+2_Climate Change_12,10,False,"[[970, 1019]]",1,4,"[8, 9, 11, 6]",What was the reason for the
+2_Climate Change_12,10,False,"[[970, 1019]]",1,4,"[8, 9, 11, 6]",What was the reason for the
+2_Climate Change_12,10,False,"[[970, 1019]]",1,4,"[8, 9, 11, 6]",What was the reason for the
+2_Climate Change_12,10,False,"[[970, 1019]]",1,4,"[8, 9, 11, 6]",What was the reason for the
+2_Climate Change_12,10,False,"[[970, 1019]]",1,4,"[8, 9, 11, 6]",What was the reason for the
+2_Climate Change_12,11,False,"[[970, 1019]]",1,4,"[8, 9, 11, 6]",What was the reason for the
+2_Climate Change_12,11,False,"[[970, 1019]]",1,4,"[8, 9, 11, 6]",What was the reason for the
+2_Climate Change_12,11,False,"[[970, 1019]]",1,4,"[8, 9, 11, 6]",What was the reason for the
+2_Climate Change_12,11,False,"[[970, 1019]]",1,4,"[8, 9, 11, 6]",What was the reason for the
+2_Climate Change_12,11,False,"[[970, 1019]]",1,4,"[8, 9, 11, 6]",What was the reason for the
+2_Climate Change_12,10,False,"[[982, 1019], [970, 982]]",2,3,"[9, 11, 7]",What was the reason for the
+2_Climate Change_12,10,False,"[[982, 1019], [970, 982]]",2,3,"[9, 11, 7]",What was the reason for the
+2_Climate Change_12,10,False,"[[982, 1019], [970, 982]]",2,3,"[9, 11, 7]",What was the reason for the
+2_Climate Change_12,10,False,"[[982, 1019], [970, 982]]",2,3,"[9, 11, 7]",What was the reason for the
+2_Climate Change_12,10,False,"[[982, 1019], [970, 982]]",2,3,"[9, 11, 7]",What was the reason for the
+2_Climate Change_12,11,False,"[[982, 1019], [970, 982]]",2,3,"[9, 11, 7]",What was the reason for the
+2_Climate Change_12,11,False,"[[982, 1019], [970, 982]]",2,3,"[9, 11, 7]",What was the reason for the
+2_Climate Change_12,11,False,"[[982, 1019], [970, 982]]",2,3,"[9, 11, 7]",What was the reason for the
+2_Climate Change_12,11,False,"[[982, 1019], [970, 982]]",2,3,"[9, 11, 7]",What was the reason for the
+2_Climate Change_12,11,False,"[[982, 1019], [970, 982]]",2,3,"[9, 11, 7]",What was the reason for the
+2_Climate Change_12,14,False,"[[601, 643], [684, 699]]",2,4,"[0, 8, 6, 9]",What has been the reason behind the
+2_Climate Change_12,14,False,"[[601, 643], [684, 699]]",2,4,"[0, 8, 6, 9]",What has been the reason behind the
+2_Climate Change_12,14,False,"[[601, 643], [684, 699]]",2,4,"[0, 8, 6, 9]",What has been the reason behind the
+2_Climate Change_12,14,False,"[[601, 643], [684, 699]]",2,4,"[0, 8, 6, 9]",What has been the reason behind the
+2_Climate Change_12,14,False,"[[601, 643], [684, 699]]",2,4,"[0, 8, 6, 9]",What has been the reason behind the
+2_Climate Change_12,15,False,"[[1343, 1377]]",1,3,"[8, 9, 4]",What advice has been given to the United S
+2_Climate Change_12,15,False,"[[1343, 1377]]",1,3,"[8, 9, 4]",What advice has been given to the United S
+2_Climate Change_12,15,False,"[[1343, 1377]]",1,3,"[8, 9, 4]",What advice has been given to the United S
+2_Climate Change_12,15,False,"[[1343, 1377]]",1,3,"[8, 9, 4]",What advice has been given to the United S
+2_Climate Change_12,15,False,"[[1343, 1377]]",1,3,"[8, 9, 4]",What advice has been given to the United S
+1_AIDS_13,1,False,"[[91, 160]]",1,5,"[8, 9, 11, 12, 6]",What is the main objecti
+1_AIDS_13,1,False,"[[91, 160]]",1,5,"[8, 9, 11, 12, 6]",What is the main objecti
+1_AIDS_13,1,False,"[[91, 160]]",1,5,"[8, 9, 11, 12, 6]",What is the main objecti
+1_AIDS_13,1,False,"[[91, 160]]",1,5,"[8, 9, 11, 12, 6]",What is the main objecti
+1_AIDS_13,1,False,"[[91, 160]]",1,5,"[8, 9, 11, 12, 6]",What is the main objecti
+1_AIDS_13,3,False,"[[87, 160]]",1,5,"[8, 9, 11, 12, 6]",Why is Randall Tobias supposed 
+1_AIDS_13,3,False,"[[87, 160]]",1,5,"[8, 9, 11, 12, 6]",Why is Randall Tobias supposed 
+1_AIDS_13,3,False,"[[87, 160]]",1,5,"[8, 9, 11, 12, 6]",Why is Randall Tobias supposed 
+1_AIDS_13,3,False,"[[87, 160]]",1,5,"[8, 9, 11, 12, 6]",Why is Randall Tobias supposed 
+1_AIDS_13,3,False,"[[87, 160]]",1,5,"[8, 9, 11, 12, 6]",Why is Randall Tobias supposed 
+1_AIDS_13,13,False,"[[491, 514]]",1,2,"[8, 9]",What is Randall
+1_AIDS_13,13,False,"[[491, 514]]",1,2,"[8, 9]",What is Randall
+1_AIDS_13,13,False,"[[491, 514]]",1,2,"[8, 9]",What is Randall
+1_AIDS_13,13,False,"[[491, 514]]",1,2,"[8, 9]",What is Randall
+1_AIDS_13,13,False,"[[491, 514]]",1,2,"[8, 9]",What is Randall
+1_AIDS_13,14,False,"[[491, 514]]",1,2,"[8, 9]",What is Randall
+1_AIDS_13,14,False,"[[491, 514]]",1,2,"[8, 9]",What is Randall
+1_AIDS_13,14,False,"[[491, 514]]",1,2,"[8, 9]",What is Randall
+1_AIDS_13,14,False,"[[491, 514]]",1,2,"[8, 9]",What is Randall
+1_AIDS_13,14,False,"[[491, 514]]",1,2,"[8, 9]",What is Randall
+1_AIDS_13,18,False,"[[377, 442]]",1,4,"[8, 9, 11, 12]",What are activists
+1_AIDS_13,18,False,"[[377, 442]]",1,4,"[8, 9, 11, 12]",What are activists
+1_AIDS_13,18,False,"[[377, 442]]",1,4,"[8, 9, 11, 12]",What are activists
+1_AIDS_13,18,False,"[[377, 442]]",1,4,"[8, 9, 11, 12]",What are activists
+1_AIDS_13,18,False,"[[377, 442]]",1,4,"[8, 9, 11, 12]",What are activists
+1_AIDS_14,1,False,"[[347, 380]]",1,3,"[8, 9, 12]",What is the main difference betwe
+1_AIDS_14,1,False,"[[347, 380]]",1,3,"[8, 9, 12]",What is the main difference betwe
+1_AIDS_14,1,False,"[[347, 380]]",1,3,"[8, 9, 12]",What is the main difference betwe
+1_AIDS_14,1,False,"[[347, 380]]",1,3,"[8, 9, 12]",What is the main difference betwe
+1_AIDS_14,1,False,"[[347, 380]]",1,3,"[8, 9, 12]",What is the main difference betwe
+1_AIDS_14,3,False,"[[61, 87]]",1,3,"[8, 1, 9]",How many American
+1_AIDS_14,3,False,"[[61, 87]]",1,3,"[8, 1, 9]",How many American
+1_AIDS_14,3,False,"[[61, 87]]",1,3,"[8, 1, 9]",How many American
+1_AIDS_14,3,False,"[[61, 87]]",1,3,"[8, 1, 9]",How many American
+1_AIDS_14,3,False,"[[61, 87]]",1,3,"[8, 1, 9]",How many American
+1_AIDS_14,5,False,"[[979, 1002]]",1,3,"[8, 9, 6]",How can AIDS in the United State
+1_AIDS_14,5,False,"[[979, 1002]]",1,3,"[8, 9, 6]",How can AIDS in the United State
+1_AIDS_14,5,False,"[[979, 1002]]",1,3,"[8, 9, 6]",How can AIDS in the United State
+1_AIDS_14,5,False,"[[979, 1002]]",1,3,"[8, 9, 6]",How can AIDS in the United State
+1_AIDS_14,5,False,"[[979, 1002]]",1,3,"[8, 9, 6]",How can AIDS in the United State
+1_AIDS_14,6,False,"[[959, 979]]",1,4,"[8, 9, 11, 7]",What is PEPF
+1_AIDS_14,6,False,"[[959, 979]]",1,4,"[8, 9, 11, 7]",What is PEPF
+1_AIDS_14,6,False,"[[959, 979]]",1,4,"[8, 9, 11, 7]",What is PEPF
+1_AIDS_14,6,False,"[[959, 979]]",1,4,"[8, 9, 11, 7]",What is PEPF
+1_AIDS_14,6,False,"[[959, 979]]",1,4,"[8, 9, 11, 7]",What is PEPF
+1_AIDS_14,8,False,"[[151, 196]]",1,4,"[8, 1, 3, 9]",When were the first cases of AIDS r
+1_AIDS_14,8,False,"[[151, 196]]",1,4,"[8, 1, 3, 9]",When were the first cases of AIDS r
+1_AIDS_14,8,False,"[[151, 196]]",1,4,"[8, 1, 3, 9]",When were the first cases of AIDS r
+1_AIDS_14,8,False,"[[151, 196]]",1,4,"[8, 1, 3, 9]",When were the first cases of AIDS r
+1_AIDS_14,8,False,"[[151, 196]]",1,4,"[8, 1, 3, 9]",When were the first cases of AIDS r
+1_AIDS_14,9,False,"[[151, 196]]",1,4,"[8, 1, 3, 9]",When were the first cases of AIDS r
+1_AIDS_14,9,False,"[[151, 196]]",1,4,"[8, 1, 3, 9]",When were the first cases of AIDS r
+1_AIDS_14,9,False,"[[151, 196]]",1,4,"[8, 1, 3, 9]",When were the first cases of AIDS r
+1_AIDS_14,9,False,"[[151, 196]]",1,4,"[8, 1, 3, 9]",When were the first cases of AIDS r
+1_AIDS_14,9,False,"[[151, 196]]",1,4,"[8, 1, 3, 9]",When were the first cases of AIDS r
+1_AIDS_14,10,True,"[[674, 704]]",1,0,[14],"According to the text, which country r"
+1_AIDS_14,10,True,"[[674, 704]]",1,0,[14],"According to the text, which country r"
+1_AIDS_14,10,True,"[[674, 704]]",1,0,[14],"According to the text, which country r"
+1_AIDS_14,10,True,"[[674, 704]]",1,0,[14],"According to the text, which country r"
+1_AIDS_14,10,True,"[[674, 704]]",1,0,[14],"According to the text, which country r"
+1_AIDS_15,2,False,"[[644, 663]]",1,6,"[2, 6, 7, 8, 9, 12]",Name one consequenc
+1_AIDS_15,2,False,"[[644, 663]]",1,6,"[2, 6, 7, 8, 9, 12]",Name one consequenc
+1_AIDS_15,2,False,"[[644, 663]]",1,6,"[2, 6, 7, 8, 9, 12]",Name one consequenc
+1_AIDS_15,2,False,"[[644, 663]]",1,6,"[2, 6, 7, 8, 9, 12]",Name one consequenc
+1_AIDS_15,2,False,"[[644, 663]]",1,6,"[2, 6, 7, 8, 9, 12]",Name one consequenc
+1_AIDS_15,3,False,"[[311, 329]]",1,3,"[8, 9, 7]",What is the policy of the first American 
+1_AIDS_15,3,False,"[[311, 329]]",1,3,"[8, 9, 7]",What is the policy of the first American 
+1_AIDS_15,3,False,"[[311, 329]]",1,3,"[8, 9, 7]",What is the policy of the first American 
+1_AIDS_15,3,False,"[[311, 329]]",1,3,"[8, 9, 7]",What is the policy of the first American 
+1_AIDS_15,3,False,"[[311, 329]]",1,3,"[8, 9, 7]",What is the policy of the first American 
+1_AIDS_15,5,False,"[[311, 329]]",1,1,[8],What is Bill C
+1_AIDS_15,5,False,"[[311, 329]]",1,1,[8],What is Bill C
+1_AIDS_15,5,False,"[[311, 329]]",1,1,[8],What is Bill C
+1_AIDS_15,5,False,"[[311, 329]]",1,1,[8],What is Bill C
+1_AIDS_15,5,False,"[[311, 329]]",1,1,[8],What is Bill C
+1_AIDS_15,6,False,"[[329, 350]]",1,1,[8],What are countries of t
+1_AIDS_15,6,False,"[[329, 350]]",1,1,[8],What are countries of t
+1_AIDS_15,6,False,"[[329, 350]]",1,1,[8],What are countries of t
+1_AIDS_15,6,False,"[[329, 350]]",1,1,[8],What are countries of t
+1_AIDS_15,6,False,"[[329, 350]]",1,1,[8],What are countries of t
+1_AIDS_15,7,False,"[[380, 424]]",1,3,"[8, 9, 6]",Why is abstinence not enoug
+1_AIDS_15,7,False,"[[380, 424]]",1,3,"[8, 9, 6]",Why is abstinence not enoug
+1_AIDS_15,7,False,"[[380, 424]]",1,3,"[8, 9, 6]",Why is abstinence not enoug
+1_AIDS_15,7,False,"[[380, 424]]",1,3,"[8, 9, 6]",Why is abstinence not enoug
+1_AIDS_15,7,False,"[[380, 424]]",1,3,"[8, 9, 6]",Why is abstinence not enoug
+1_AIDS_15,8,False,"[[350, 373]]",1,3,"[8, 9, 6]",Why does AIDS policy go han
+1_AIDS_15,8,False,"[[350, 373]]",1,3,"[8, 9, 6]",Why does AIDS policy go han
+1_AIDS_15,8,False,"[[350, 373]]",1,3,"[8, 9, 6]",Why does AIDS policy go han
+1_AIDS_15,8,False,"[[350, 373]]",1,3,"[8, 9, 6]",Why does AIDS policy go han
+1_AIDS_15,8,False,"[[350, 373]]",1,3,"[8, 9, 6]",Why does AIDS policy go han
+1_AIDS_15,13,False,"[[893, 963]]",1,5,"[8, 9, 3, 12, 6]",What is the main o
+1_AIDS_15,13,False,"[[893, 963]]",1,5,"[8, 9, 3, 12, 6]",What is the main o
+1_AIDS_15,13,False,"[[893, 963]]",1,5,"[8, 9, 3, 12, 6]",What is the main o
+1_AIDS_15,13,False,"[[893, 963]]",1,5,"[8, 9, 3, 12, 6]",What is the main o
+1_AIDS_15,13,False,"[[893, 963]]",1,5,"[8, 9, 3, 12, 6]",What is the main o
+1_AIDS_15,14,False,"[[989, 1016]]",1,5,"[8, 9, 12, 6, 7]",What reduces t
+1_AIDS_15,14,False,"[[989, 1016]]",1,5,"[8, 9, 12, 6, 7]",What reduces t
+1_AIDS_15,14,False,"[[989, 1016]]",1,5,"[8, 9, 12, 6, 7]",What reduces t
+1_AIDS_15,14,False,"[[989, 1016]]",1,5,"[8, 9, 12, 6, 7]",What reduces t
+1_AIDS_15,14,False,"[[989, 1016]]",1,5,"[8, 9, 12, 6, 7]",What reduces t
+1_AIDS_15,18,False,"[[207, 235]]",1,3,"[8, 1, 9]",How many people around the wor
+1_AIDS_15,18,False,"[[207, 235]]",1,3,"[8, 1, 9]",How many people around the wor
+1_AIDS_15,18,False,"[[207, 235]]",1,3,"[8, 1, 9]",How many people around the wor
+1_AIDS_15,18,False,"[[207, 235]]",1,3,"[8, 1, 9]",How many people around the wor
+1_AIDS_15,18,False,"[[207, 235]]",1,3,"[8, 1, 9]",How many people around the wor
+1_AIDS_16,8,False,"[[530, 594], [617, 631]]",2,5,"[8, 9, 11, 6, 7]",Why will there be 20 million c
+1_AIDS_16,8,False,"[[530, 594], [617, 631]]",2,5,"[8, 9, 11, 6, 7]",Why will there be 20 million c
+1_AIDS_16,8,False,"[[530, 594], [617, 631]]",2,5,"[8, 9, 11, 6, 7]",Why will there be 20 million c
+1_AIDS_16,8,False,"[[530, 594], [617, 631]]",2,5,"[8, 9, 11, 6, 7]",Why will there be 20 million c
+1_AIDS_16,8,False,"[[530, 594], [617, 631]]",2,5,"[8, 9, 11, 6, 7]",Why will there be 20 million c
+1_AIDS_16,10,False,"[[273, 318]]",1,3,"[8, 9, 7]",Who agreed to commit to
+1_AIDS_16,10,False,"[[273, 318]]",1,3,"[8, 9, 7]",Who agreed to commit to
+1_AIDS_16,10,False,"[[273, 318]]",1,3,"[8, 9, 7]",Who agreed to commit to
+1_AIDS_16,10,False,"[[273, 318]]",1,3,"[8, 9, 7]",Who agreed to commit to
+1_AIDS_16,10,False,"[[273, 318]]",1,3,"[8, 9, 7]",Who agreed to commit to
+1_AIDS_16,11,False,"[[273, 318]]",1,3,"[8, 9, 7]",Who agreed to commit to
+1_AIDS_16,11,False,"[[273, 318]]",1,3,"[8, 9, 7]",Who agreed to commit to
+1_AIDS_16,11,False,"[[273, 318]]",1,3,"[8, 9, 7]",Who agreed to commit to
+1_AIDS_16,11,False,"[[273, 318]]",1,3,"[8, 9, 7]",Who agreed to commit to
+1_AIDS_16,11,False,"[[273, 318]]",1,3,"[8, 9, 7]",Who agreed to commit to
+1_AIDS_16,10,False,"[[273, 318]]",1,2,"[8, 9]",Who agreed to commit to
+1_AIDS_16,10,False,"[[273, 318]]",1,2,"[8, 9]",Who agreed to commit to
+1_AIDS_16,10,False,"[[273, 318]]",1,2,"[8, 9]",Who agreed to commit to
+1_AIDS_16,10,False,"[[273, 318]]",1,2,"[8, 9]",Who agreed to commit to
+1_AIDS_16,10,False,"[[273, 318]]",1,2,"[8, 9]",Who agreed to commit to
+1_AIDS_16,11,False,"[[273, 318]]",1,2,"[8, 9]",Who agreed to commit to
+1_AIDS_16,11,False,"[[273, 318]]",1,2,"[8, 9]",Who agreed to commit to
+1_AIDS_16,11,False,"[[273, 318]]",1,2,"[8, 9]",Who agreed to commit to
+1_AIDS_16,11,False,"[[273, 318]]",1,2,"[8, 9]",Who agreed to commit to
+1_AIDS_16,11,False,"[[273, 318]]",1,2,"[8, 9]",Who agreed to commit to
+1_AIDS_16,17,True,"[[0, 45]]",1,0,[14],Who is to blame for U.S
+1_AIDS_16,17,True,"[[0, 45]]",1,0,[14],Who is to blame for U.S
+1_AIDS_16,17,True,"[[0, 45]]",1,0,[14],Who is to blame for U.S
+1_AIDS_16,17,True,"[[0, 45]]",1,0,[14],Who is to blame for U.S
+1_AIDS_16,17,True,"[[0, 45]]",1,0,[14],Who is to blame for U.S
