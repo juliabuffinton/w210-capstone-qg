@@ -1,0 +1,272 @@
+<!-- You must include this JavaScript file -->
+<script src="https://assets.crowd.aws/crowd-html-elements.js"></script>
+
+<!-- For the full list of available Crowd HTML Elements and their input/output documentation,
+      please refer to https://docs.aws.amazon.com/sagemaker/latest/dg/sms-ui-template-reference.html -->
+
+<!-- You must include crowd-form so that your task submits answers to MTurk -->
+<crowd-form answer-format="flatten-objects">
+
+<p>
+  <strong>
+    In this task there are 10 sentence-question-answer pairs. Read each pair, and use the sliders and radio buttons to indicate how much you agree with the statements 
+    about the <u>answer</u>. Please note that the sentences, questions, and answers have all been formatted in lower case.
+  </strong>
+</p>
+
+<ol>
+    <li><p><strong>Context sentence #${number1}: </strong>${context1}<br><br> ${question1}</p>
+    
+        <p><strong>Answer: </strong>${answer1}</p>
+          <p>
+            <ul>
+                <li>
+                    <p>How clear is the meaning of the <strong>answer</strong>? (1 = completely unclear, 5 = completely clear)</p>
+                    <p><crowd-slider name="clarity1" min="1" max="5" required pin></crowd-slider></p>
+                
+                </li>
+                <li>
+                    <p>How natural is the <strong>answer</strong>? (1 = completely unnatural, 5 = completely natural)</p>
+                    <p><crowd-slider name="fluency1" min="1" max="5" required pin></crowd-slider></p>
+                </li>
+                <li>
+                    <p>Is the structure of the <strong>answer</strong> correct?</p>
+                    <p><crowd-radio-group><crowd-radio-button name="grammatical1">Yes</crowd-radio-button><crowd-radio-button name="ungrammatical1">No</crowd-radio-button></crowd-radio-group></p>
+                </li>
+                <li>
+                    <p>Can the <strong>answer</strong> be found in the context sentence?</p>
+                    <p><crowd-radio-group><crowd-radio-button name="present1">Yes</crowd-radio-button><crowd-radio-button name="not_present1">No</crowd-radio-button></crowd-radio-group></p>
+              </li>
+            </ul>
+          </p>
+      </li>
+
+    <li><p><strong>Context sentence #${number2}: </strong>${context2}<br><br> ${question2}</p>
+    
+        <p><strong>Answer: </strong>${answer2}</p>
+          <p>
+            <ul>
+                <li>
+                    <p>How clear is the meaning of the <strong>answer</strong>? (1 = completely unclear, 5 = completely clear)</p>
+                    <p><crowd-slider name="clarity2" min="1" max="5" required pin></crowd-slider></p>
+                
+                </li>
+                <li>
+                    <p>How natural is the <strong>answer</strong>? (1 = completely unnatural, 5 = completely natural)</p>
+                    <p><crowd-slider name="fluency2" min="1" max="5" required pin></crowd-slider></p>
+                </li>
+                <li>
+                    <p>Is the structure of the <strong>answer</strong> correct?</p>
+                    <p><crowd-radio-group><crowd-radio-button name="grammatical2">Yes</crowd-radio-button><crowd-radio-button name="ungrammatical2">No</crowd-radio-button></crowd-radio-group></p>
+                </li>
+                <li>
+                    <p>Can the <strong>answer</strong> be found in the context sentence?</p>
+                    <p><crowd-radio-group><crowd-radio-button name="present2">Yes</crowd-radio-button><crowd-radio-button name="not_present2">No</crowd-radio-button></crowd-radio-group></p>
+                </li>
+            </ul>
+        </p>
+    </li>
+    <li><p><strong>Context sentence #${number3}: </strong>${context3}<br><br> ${question3}</p>
+    
+        <p><strong>Answer: </strong>${answer3}</p>
+          <p>
+            <ul>
+                <li>
+                    <p>How clear is the meaning of the <strong>answer</strong>? (1 = completely unclear, 5 = completely clear)</p>
+                    <p><crowd-slider name="clarity3" min="1" max="5" required pin></crowd-slider></p>
+                
+                </li>
+                <li>
+                    <p>How natural is the <strong>answer</strong>? (1 = completely unnatural, 5 = completely natural)</p>
+                    <p><crowd-slider name="fluency3" min="1" max="5" required pin></crowd-slider></p>
+                </li>
+                <li>
+                    <p>Is the structure of the <strong>answer</strong> correct?</p>
+                    <p><crowd-radio-group><crowd-radio-button name="grammatical3">Yes</crowd-radio-button><crowd-radio-button name="ungrammatical3">No</crowd-radio-button></crowd-radio-group></p>
+                </li>
+                <li>
+                    <p>Can the <strong>answer</strong> be found in the context sentence?</p>
+                    <p><crowd-radio-group><crowd-radio-button name="present3">Yes</crowd-radio-button><crowd-radio-button name="not_present3">No</crowd-radio-button></crowd-radio-group></p>
+              </li>
+            </ul>
+          </p>
+    </li>
+        <li><p><strong>Context sentence #${number4}: </strong>${context4}<br><br> ${question4}</p>
+    
+        <p><strong>Answer: </strong>${answer4}</p>
+          <p>
+            <ul>
+                <li>
+                    <p>How clear is the meaning of the <strong>answer</strong>? (1 = completely unclear, 5 = completely clear)</p>
+                    <p><crowd-slider name="clarity4" min="1" max="5" required pin></crowd-slider></p>
+                
+                </li>
+                <li>
+                    <p>How natural is the <strong>answer</strong>? (1 = completely unnatural, 5 = completely natural)</p>
+                    <p><crowd-slider name="fluency4" min="1" max="5" required pin></crowd-slider></p>
+                </li>
+                <li>
+                    <p>Is the structure of the <strong>answer</strong> correct?</p>
+                    <p><crowd-radio-group><crowd-radio-button name="grammatical4">Yes</crowd-radio-button><crowd-radio-button name="ungrammatical4">No</crowd-radio-button></crowd-radio-group></p>
+                </li>
+                <li>
+                    <p>Can the <strong>answer</strong> be found in the context sentence?</p>
+                    <p><crowd-radio-group><crowd-radio-button name="present4">Yes</crowd-radio-button><crowd-radio-button name="not_present4">No</crowd-radio-button></crowd-radio-group></p>
+              </li>
+            </ul>
+          </p>
+    </li>
+            <li><p><strong>Context sentence #${number5}: </strong>${context5}<br><br> ${question5}</p>
+    
+        <p><strong>Answer: </strong>${answer5}</p>
+          <p>
+            <ul>
+                <li>
+                    <p>How clear is the meaning of the <strong>answer</strong>? (1 = completely unclear, 5 = completely clear)</p>
+                    <p><crowd-slider name="clarity5" min="1" max="5" required pin></crowd-slider></p>
+                
+                </li>
+                <li>
+                    <p>How natural is the <strong>answer</strong>? (1 = completely unnatural, 5 = completely natural)</p>
+                    <p><crowd-slider name="fluency5" min="1" max="5" required pin></crowd-slider></p>
+                </li>
+                <li>
+                    <p>Is the structure of the <strong>answer</strong> correct?</p>
+                    <p><crowd-radio-group><crowd-radio-button name="grammatical5">Yes</crowd-radio-button><crowd-radio-button name="ungrammatical5">No</crowd-radio-button></crowd-radio-group></p>
+                </li>
+                <li>
+                    <p>Can the <strong>answer</strong> be found in the context sentence?</p>
+                    <p><crowd-radio-group><crowd-radio-button name="present5">Yes</crowd-radio-button><crowd-radio-button name="not_present5">No</crowd-radio-button></crowd-radio-group></p>
+              </li>
+            </ul>
+          </p>
+    </li>
+            <li><p><strong>Context sentence #${number6}: </strong>${context6}<br><br> ${question6}</p>
+    
+        <p><strong>Answer: </strong>${answer6}</p>
+          <p>
+            <ul>
+                <li>
+                    <p>How clear is the meaning of the <strong>answer</strong>? (1 = completely unclear, 5 = completely clear)</p>
+                    <p><crowd-slider name="clarity6" min="1" max="5" required pin></crowd-slider></p>
+                
+                </li>
+                <li>
+                    <p>How natural is the <strong>answer</strong>? (1 = completely unnatural, 5 = completely natural)</p>
+                    <p><crowd-slider name="fluency6" min="1" max="5" required pin></crowd-slider></p>
+                </li>
+                <li>
+                    <p>Is the structure of the <strong>answer</strong> correct?</p>
+                    <p><crowd-radio-group><crowd-radio-button name="grammatical6">Yes</crowd-radio-button><crowd-radio-button name="ungrammatical6">No</crowd-radio-button></crowd-radio-group></p>
+                </li>
+                <li>
+                    <p>Can the <strong>answer</strong> be found in the context sentence?</p>
+                    <p><crowd-radio-group><crowd-radio-button name="present6">Yes</crowd-radio-button><crowd-radio-button name="not_present6">No</crowd-radio-button></crowd-radio-group></p>
+              </li>
+            </ul>
+          </p>
+    </li>
+            <li><p><strong>Context sentence #${number7}: </strong>${context7}<br><br> ${question7}</p>
+    
+        <p><strong>Answer: </strong>${answer7}</p>
+          <p>
+            <ul>
+                <li>
+                    <p>How clear is the meaning of the <strong>answer</strong>? (1 = completely unclear, 5 = completely clear)</p>
+                    <p><crowd-slider name="clarity7" min="1" max="5" required pin></crowd-slider></p>
+                
+                </li>
+                <li>
+                    <p>How natural is the <strong>answer</strong>? (1 = completely unnatural, 5 = completely natural)</p>
+                    <p><crowd-slider name="fluency7" min="1" max="5" required pin></crowd-slider></p>
+                </li>
+                <li>
+                    <p>Is the structure of the <strong>answer</strong> correct?</p>
+                    <p><crowd-radio-group><crowd-radio-button name="grammatical7">Yes</crowd-radio-button><crowd-radio-button name="ungrammatical7">No</crowd-radio-button></crowd-radio-group></p>
+                </li>
+                <li>
+                    <p>Can the <strong>answer</strong> be found in the context sentence?</p>
+                    <p><crowd-radio-group><crowd-radio-button name="present7">Yes</crowd-radio-button><crowd-radio-button name="not_present7">No</crowd-radio-button></crowd-radio-group></p>
+              </li>
+            </ul>
+          </p>
+    </li>
+            <li><p><strong>Context sentence #${number8}: </strong>${context8}<br><br> ${question8}</p>
+    
+        <p><strong>Answer: </strong>${answer8}</p>
+          <p>
+            <ul>
+                <li>
+                    <p>How clear is the meaning of the <strong>answer</strong>? (1 = completely unclear, 5 = completely clear)</p>
+                    <p><crowd-slider name="clarity8" min="1" max="5" required pin></crowd-slider></p>
+                
+                </li>
+                <li>
+                    <p>How natural is the <strong>answer</strong>? (1 = completely unnatural, 5 = completely natural)</p>
+                    <p><crowd-slider name="fluency8" min="1" max="5" required pin></crowd-slider></p>
+                </li>
+                <li>
+                    <p>Is the structure of the <strong>answer</strong> correct?</p>
+                    <p><crowd-radio-group><crowd-radio-button name="grammatical8">Yes</crowd-radio-button><crowd-radio-button name="ungrammatical8">No</crowd-radio-button></crowd-radio-group></p>
+                </li>
+                <li>
+                    <p>Can the <strong>answer</strong> be found in the context sentence?</p>
+                    <p><crowd-radio-group><crowd-radio-button name="present8">Yes</crowd-radio-button><crowd-radio-button name="not_present8">No</crowd-radio-button></crowd-radio-group></p>
+              </li>
+            </ul>
+          </p>
+    </li>
+            <li><p><strong>Context sentence #${number9}: </strong>${context9}<br><br> ${question9}</p>
+    
+        <p><strong>Answer: </strong>${answer9}</p>
+          <p>
+            <ul>
+                <li>
+                    <p>How clear is the meaning of the <strong>answer</strong>? (1 = completely unclear, 5 = completely clear)</p>
+                    <p><crowd-slider name="clarity9" min="1" max="5" required pin></crowd-slider></p>
+                
+                </li>
+                <li>
+                    <p>How natural is the <strong>answer</strong>? (1 = completely unnatural, 5 = completely natural)</p>
+                    <p><crowd-slider name="fluency9" min="1" max="5" required pin></crowd-slider></p>
+                </li>
+                <li>
+                    <p>Is the structure of the <strong>answer</strong> correct?</p>
+                    <p><crowd-radio-group><crowd-radio-button name="grammatical9">Yes</crowd-radio-button><crowd-radio-button name="ungrammatical9">No</crowd-radio-button></crowd-radio-group></p>
+                </li>
+                <li>
+                    <p>Can the <strong>answer</strong> be found in the context sentence?</p>
+                    <p><crowd-radio-group><crowd-radio-button name="present9">Yes</crowd-radio-button><crowd-radio-button name="not_present9">No</crowd-radio-button></crowd-radio-group></p>
+              </li>
+            </ul>
+          </p>
+    </li>
+            <li><p><strong>Context sentence #${number10}: </strong>${context10}<br><br> ${question10}</p>
+    
+        <p><strong>Answer: </strong>${answer10}</p>
+          <p>
+            <ul>
+                <li>
+                    <p>How clear is the meaning of the <strong>answer</strong>? (1 = completely unclear, 5 = completely clear)</p>
+                    <p><crowd-slider name="clarity10" min="1" max="5" required pin></crowd-slider></p>
+                
+                </li>
+                <li>
+                    <p>How natural is the <strong>answer</strong>? (1 = completely unnatural, 5 = completely natural)</p>
+                    <p><crowd-slider name="fluency10" min="1" max="5" required pin></crowd-slider></p>
+                </li>
+                <li>
+                    <p>Is the structure of the <strong>answer</strong> correct?</p>
+                    <p><crowd-radio-group><crowd-radio-button name="grammatical10">Yes</crowd-radio-button><crowd-radio-button name="ungrammatical10">No</crowd-radio-button></crowd-radio-group></p>
+                </li>
+                <li>
+                    <p>Can the <strong>answer</strong> be found in the context sentence?</p>
+                    <p><crowd-radio-group><crowd-radio-button name="present10">Yes</crowd-radio-button><crowd-radio-button name="not_present10">No</crowd-radio-button></crowd-radio-group></p>
+              </li>
+            </ul>
+          </p>
+    </li>
+  
+</ol>
+  
+</crowd-form>

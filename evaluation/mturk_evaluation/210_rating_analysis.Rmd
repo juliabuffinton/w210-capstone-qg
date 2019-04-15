@@ -6,7 +6,7 @@ output: pdf_document
 Unpaired Two-Samples T-Test http://www.sthda.com/english/wiki/unpaired-two-samples-t-test-in-r
 
 ```{r}
-data <- read.csv('/Users/joannahuang/Downloads/w210-capstone-qg-master/mturk_prep/All_results.csv')
+data <- read.csv('/Users/juliabuffinton/Documents/MIDS/W210_Synthetic_Capstone/w210-capstone-qg/mturk_prep/All_results.csv')
 head(data)
 ```
 
