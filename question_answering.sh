@@ -8,6 +8,7 @@ data_files="./data/datasets"
 # This should contain folders of files with lists of Wikipedia articles
 wiki_squad="${data_files}/wikipedia_squad/"
 answers="${data_files}/answers/"
+ouput="${data_files}/for_autoq/"
 for foldername in $(ls -1 ${wiki_squad})
 do
     echo "foldername: ${foldername}"
@@ -20,11 +21,12 @@ do
         echo "filename: ${filename}"
         input_file="${input_subfolder}/${filename}"
         output_file="${output_subfolder}/${filename}"
-        python "/home/joanna_huang/DrQA/scripts/reader/predict.py" --model  "/home/joanna_huang/DrQA/data/reader/single.mdl" --out-dir "${
-output_subfolder}" "${input_file}"
+        python ${qa_predict} --model ${model} --out-dir ${output_subfolder} ${input_file}
         now_time=$(date "+%s")
         time_taken=`expr $now_time - $start_time`
         echo "Completed ${files} files in ${time_taken} seconds"
         files=`expr $files + 1`
     done
 done
+
+python add_answers.py --input-question-dir ${answers} --input-squad-dir ${wiki_squad} --out-dir ${wiki_squad}

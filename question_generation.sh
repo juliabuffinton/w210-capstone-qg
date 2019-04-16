@@ -6,10 +6,10 @@ start_time=$(date "+%s")
 files=0
 
 # This should contain folders of files with sentences, that we will generate Qs for 
-unlabeled_sents="${data_files}/unlabeled_sentences_single/"
-questions="${data_files}/questions_single/"
-wiki_squad="${data_files}/wikipedia_squad_single/"
-labeled_sents="${data_files}/labeled_sentences_single/"
+unlabeled_sents="${data_files}/unlabeled_sentences/"
+questions="${data_files}/questions/"
+wiki_squad="${data_files}/wikipedia_squad/"
+labeled_sents="${data_files}/labeled_sentences/"
 
 for foldername in $(ls ${unlabeled_sents})
 do
