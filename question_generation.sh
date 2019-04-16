@@ -29,7 +29,7 @@ do
         python -W ignore ${generationq_dir}/test.py -model "${model}" -src ${input_file} -output "${output_file}" -replace_unk -beam_size 3 -gpu 0 -batch_size 30
         now_time=$(date "+%s")
         files=`expr $files + 1`
-        if [ $files % 20 == 0 ]
+        if [ `expr $files % 20` -eq 0 ]
         then
             if [ $files == 20 ]
             then
