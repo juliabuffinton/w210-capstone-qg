@@ -112,7 +112,7 @@ def check_answer_type(raw_answer):
         answer_type.append('Unknown type')
     return answer_type
 
-def generate_distractor(topic, paragraph, qid, question, answer, answer_type):
+def generate_distractor(df, topic, paragraph, qid, question, answer, answer_type):
     wrong_answers=[]
     #preprocess answer
     correct_answer = nlp(unidecode.unidecode(preprocess(answer)))
@@ -396,6 +396,7 @@ def generate_wrong_answers(in_file,out_file):
     
     
     for title in range(len(df['data'])):
+        #print(df['data'][title]['title'])
         for p in range(len(df['data'][title]['paragraphs'])):
             if df['data'][title]['paragraphs'][p]['qas'] == []:
                 topics.append(df['data'][title]['title'])
@@ -415,14 +416,14 @@ def generate_wrong_answers(in_file,out_file):
     autoq['questions'] = questions
     autoq['id'] = qids
     autoq['answers'] = answers
-    #autoq.head()
-    
+       
     start = time.time()
     distractors = []
     for i in range(len(autoq)):
         try:
             answer_type = check_answer_type(autoq.loc[i]['answers'])
-            topic, paragraph, qid, question, correct_answer, answer_type, wrong_answers = generate_distractor(autoq.loc[i]['topics'], autoq.loc[i]['paragraphs'], autoq.loc[i]['id'],autoq.loc[i]['questions'], autoq.loc[i]['answers'], answer_type)
+            #print('answer_type: ' + str(answer_type))
+            topic, paragraph, qid, question, correct_answer, answer_type, wrong_answers = generate_distractor(df, autoq.loc[i]['topics'], autoq.loc[i]['paragraphs'], autoq.loc[i]['id'],autoq.loc[i]['questions'], autoq.loc[i]['answers'], answer_type)
             distractors.append(wrong_answers)
         except:
             print("error occurred for sample#: " + str(i))
@@ -468,9 +469,9 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(
         description='wrong_answer_gen.py')
         
-    parser.add_argument('--input-dir', type=str, default='./wikipedia_data/wikipedia_squad',
+    parser.add_argument('--input-dir', type=str, default='./wikipedia_data/for_autoq',
                     help=('Directory to read original squad-formatted file from.'), required=True)
-    parser.add_argument('--out-dir', type=str, default='./wikipedia_data/unlabeled_sentences',
+    parser.add_argument('--out-dir', type=str, default='./wikipedia_data/for_autoq_mc',
                     help=('Directory to write squad-formatted file with distractors to.'), required=True)
 
     args = parser.parse_args()
