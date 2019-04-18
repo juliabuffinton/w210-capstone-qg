@@ -1,6 +1,7 @@
 <!doctype html>
 <title>AutoQ</title>
 <link rel=stylesheet type=text/css href="{{ url_for('static', filename='style.css') }}">
+<div class="resize">
 <h1>AutoQ<br>
 <img src = "{{url_for('static', filename='white-transparent_background.svg')}}" alt = "no logo" style="width:128px;height:128px;"></h1>
 <div class = "tagline">
@@ -8,8 +9,11 @@
 </div>
 <br>
 <div class = "intro">
-  <p class="intro">This site is designed to help improve reading comprehension for English-language learners. Starting with the articles from Wikipedia, we have developed algorithms to produce reading comprehension questions designed to mimic the style of questions seen on the TOEFL exam. Improving reading comprehension stems from practice on new material. <br>
-    To get started, you can choose a topic, or you can allow us to choose a random topic for you.</p>
+  <p class="intro">This site is designed to help improve reading comprehension for English-language learners or for anyone
+    looking to study up on a new topic. Starting with the articles from Wikipedia, we have developed algorithms to produce
+    reading comprehension questions designed to mimic the style of questions seen on the TOEFL exam. Improving reading
+    comprehension stems from practice on new material. <br>
+    Click the "Get Started" button to head to topic selection. You can choose a topic, or you can allow us to choose a random topic for you.</p>
 </div>
 <div class = "topic_select">
 <form name = "topic_select" action = "/topic_select" />
@@ -17,17 +21,38 @@
 </form>
 </div>
 <br>
+<div class="centered">
 <div class="row">
   <div class="column">
     <h2>About Us</h2>
-    <p>Some text..</p>
+    <p>We are a team from the University of California - Berkeley, studying data science. We aim to combine our expertise
+    in education and advanced machine learning to produce a tool to help readers and learners.</p>
+    <div class="centered">
+    <form name = "about_us" action = "/about_us" />
+      <input type="submit" value = "Learn More About Us" method = "get"/>
+    </form>
+  </div>
   </div>
   <div class="column">
     <h2>Our Project</h2>
-    <p>Some text..</p>
+    <p>AutoQ is the first free web app with automatically generated reading comprehension questions targeted to English
+      language learners. Our product utilizes state of the art machine learning and natural language processing techniques
+      to create a vast and topical collection of multiple-choice questions that mimic English-language exam formats. We
+      currently offer over 10,000 practice questions on over 2,500 new Wikipedia articles.</p>
+      <div class="centered">
+      <form name = "our_project" action = "/our_project" />
+        <input type="submit" value = "Our Methodology" method = "get"/>
+      </form>
+    </div>
   </div>
   <div class="column">
-    <h2>Evaluation</h2>
-    <p>Some text..</p>
+    <h2>Help Us Improve</h2>
+    <p>There’s always room for improvement! We’ve incorporated this into our site via the feedback buttons. One of the downsides
+      of using automatic approaches for this is that we may occasionally show questions that aren’t up to our human standards.
+      We just don’t have enough time to check every single output, so we’d appreciate it if you could help us as you use this
+      tool. We can then use your feedback to produce more natural questions and improve on what’s already here, or remove
+      ill-formed questions.</p>
   </div>
+</div>
+</div>
 </div>

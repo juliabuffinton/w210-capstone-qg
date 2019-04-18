@@ -18,12 +18,23 @@
     <p class=question>{{ questions[id_list[q]] }}</p>
     <form action = "/check_answers", method='post'>
     {% for vals in q_achoices[id_list[q]] %}
-        <input type="radio" name="{{ radio_buttons[q] }}" value='{{ vals }}'> {{ vals }}<br>
+        <input type="radio" name="{{ radio_buttons[q] }}" value='{{ vals }}'> {{ vals.lower() }}<br>
     {% endfor %}
   {% endfor %}
   <br>
   <div class = centered>
   <input type="submit" value="Submit Answers">
     </div>
+  </form>
+  </div>
+  <br>
+  <div class = "home_page">
+  <form name = "home_page" action = "/" />
+    <input type="submit" value = "Back to home page" method = "get"/>
+  </form>
+  </div>
+  <div class = "topic_send">
+  <form name = "topic_select" action = "/topic_select" />
+    <input type="submit" value = "Head to Topic Selection" method = "get"/>
   </form>
   </div>

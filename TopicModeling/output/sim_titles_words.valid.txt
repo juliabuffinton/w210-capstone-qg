@@ -1,4 +1,4 @@
-sim_titles|common_words
+﻿sim_titles|common_words
 ['Hair', 'Hairpin', 'Mammal', 'Human evolution']|['hair', 'human', 'mammal']
 ['Hawker Siddeley Harrier', 'Hawker Harrier', 'Kamov Ka-50', 'Missile', 'Mitsubishi A6M Zero', 'Boeing KC-135 Stratotanker', 'NATO reporting name', 'Operation Sea Lion', 'Luftwaffe', 'Messerschmitt Me 163 Komet', 'Messerschmitt Me 262', 'INS Vikrant (R11)', 'Jet engine', 'Boeing OC-135B Open Skies', 'Navy', 'Fly-by-wire', 'Falklands War', 'Aircraft carrier', 'Area 51', 'Boeing 767', 'North American B-25 Mitchell', 'Northrop F-5', 'Northrop Grumman B-2 Spirit', 'Boeing 747', 'Lockheed C-130 Hercules', 'Carrier battle group', 'Boeing Vertol CH-46 Sea Knight', 'Aircraft spotting', 'Boeing E-3 Sentry', 'Northrop Grumman E-8 Joint STARS', 'Curtiss P-40 Warhawk', 'Enola Gay', 'Avionics', 'Aircraft hijacking', 'Flying car', 'Bomber', 'Blue Angels', 'Rockwell B-1 Lancer', 'Boeing B-17 Flying Fortress', 'Boeing C-17 Globemaster III', 'Escort carrier', 'Air show', 'General Dynamics F-16 Fighting Falcon', 'McDonnell Douglas F-15 Eagle', 'Grumman F-14 Tomcat', 'Lockheed F-117 Nighthawk', 'Vought F4U Corsair', 'Fighter aircraft', 'De Havilland Mosquito', 'AIM-120 AMRAAM', 'AGM-88 HARM', 'Lockheed AC-130', 'McDonnell Douglas F-4 Phantom II', 'McDonnell FH Phantom', 'Lockheed Martin F-35 Lightning II', 'Beechcraft', 'Aircraft', 'Airbus A300', 'Concorde']|['aircraft', 'air', 'force']
 ['Kawasaki Ki-56', 'Machine gun', 'Italian battleship Giulio Cesare', 'Heat engine', 'Self-propelled anti-aircraft weapon', 'Engine', 'Bristol City F.C.', 'Destroyer', 'Diesel engine']|['aircraft', 'air', 'engine']
@@ -1493,7 +1493,7 @@ sim_titles|common_words
 ['Gelatin dessert', 'Agar']|['food', 'church', 'also']
 ['Koto (instrument)']|['koto', 'string', 'instrument']
 ['Kludge']|['hacker', 'computer', 'kludge']
-['Helsingør']|['king', 'also', 'state']
+['Helsingor']|['king', 'also', 'state']
 ['Kistvaen']|['celtic', 'language', 'roman']
 ['Konrad Zuse']|['computer', 'berlin', 'machine']
 ['Utamaro']|['painting', 'art', 'artist']

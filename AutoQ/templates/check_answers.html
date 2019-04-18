@@ -28,12 +28,18 @@
   {% endfor %}
 </table>
 <br>
+<p>To report a problem with a question, please select go to score card</p>
 <!-- <form name = "score_card" action = "/api/v3/score" /> -->
   <input type="submit" value = "Go to Score Card" method = "get"/>
 </form>
 <br>
+<br>
 <form name = "same_topic" action = "/article" />
   <input type="submit" value = "More Questions on this Topic" method = "get"/>
+</form>
+<br>
+<form name = "change_topic" action = "/topic_select" />
+  <input type = "submit" value = "Change Topics" method = "get"/>
 </form>
 </div>
 <div class = short_article>

@@ -2,11 +2,19 @@ body           { font-family: 'proxima-nova', sans-serif;
 background-color: #353741 }
 h1, h2       { color: #4ba173 ;
 text-align: center }
-h1, h2          { margin: 0; }
+h1, h2, h3        { margin: 0; }
 h1              { border-bottom: 2px solid #cccccc ; font-size: 4em }
 h2              { font-size: 1.2em ; color: #ffffff }
+h3              {color: #202729;}
 
 p { color: #ffffff ; text-align: center ; }
+
+div.resize {
+  width: 100%;
+  height: 100%;
+  /* min-width: 500px; */
+  min-height: 1000px;
+}
 
 div.intro {
   border-radius: 25px ;
@@ -20,11 +28,29 @@ div.topic_select{ text-align: center }
 /* Create three equal columns that floats next to each other */
 .column {
   float: left;
-  width: 25%;
+  width: 20%;
   padding: 10px;
   border-radius: 25px ;
   border: 5px solid #4ba173 ;
+  margin: 5% ;
+}
+
+.columntwo {
+  text-align: "left";
+  float: right;
+  width: 65%;
+  padding: 10px;
+  border-radius: 25px ;
+  /* border: 5px solid #4ba173 ; */
   margin: 3.12% ;
+}
+
+.columnpic {
+  float: left;
+  width: 15%;
+  padding: 10px;
+  border-radius: 25px;
+  margin: 3.12%;
 }
 
 .row:after {
@@ -32,7 +58,22 @@ div.topic_select{ text-align: center }
   display: table;
   clear: both;
 }
+
+.row {
+  text-align: center;
+}
+
+.row_cell {
+  float: left;
+  /* padding: 10px; */
+  border-radius: 25px ;
+  border: 5px solid #4ba173;
+  margin: 3%;
+  width: 94%;
+}
+
 div.centered { text-align: center;}
+
 div.page{ text-align: center; }
 
 div.article {
@@ -86,3 +127,68 @@ table.answer_table, tr, th {
 th.correct { color: #4ba173;}
 th.incorrect { color: #ff5252;}
 th.blank { color: #fff176;}
+
+a:link {
+  color: #4ba173;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #63d297;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #ff5252;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #ffffff;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+.resources{
+  align: center;
+  height: 370px;
+  width: 60%;
+  margin: 5%;
+  line-height: 1.5;
+  border: 10px  solid #424242;
+  padding: 20px ;
+  overflow: auto;
+  background-color: #ffffff;
+  display: inline-block;
+}
+
+p.about_q {
+  text-align: left;
+  font-weight: bold;
+}
+
+p.about_a {
+  text-align: left;
+  text-indent: 3em;
+}
+
+div.home_page {
+  text-align: left;
+  float: left;
+}
+
+div.topic_send {
+  text-align: right;
+  float: right;
+}
+
+.rotate90 {
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+}

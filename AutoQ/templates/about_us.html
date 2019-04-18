@@ -1,0 +1,115 @@
+<!doctype html>
+<title>About Us!</title>
+<link rel=stylesheet type=text/css href="{{ url_for('static', filename='style.css') }}">
+<div class=page>
+  <h1>Meet the AutoQ Team</h1>
+</div>
+<br>
+<div class = "home_page">
+<form name = "home_page" action = "/" />
+  <input type="submit" value = "Back to home page" method = "get"/>
+</form>
+</div>
+<div class = "topic_send">
+<form name = "topic_select" action = "/topic_select" />
+  <input type="submit" value = "Head to Topic Selection" method = "get"/>
+</form>
+</div>
+<div class="row_cell">
+    <h2>Our Team</h2>
+    <p>We are a team from the <a href="https://datascience.berkeley.edu/">University of California - Berkeley, MIDS Program</a>.
+      This is our project for our Capstone class in Spring 2019. We aim to combine our expertise in education and advanced
+      machine learning to produce a tool to help readers and learners.</p>
+</div>
+<div class="row_cell">
+  <h2>Julia Buffinton</h2>
+  <div class="row">
+    <div class="columnpic">
+      <img src = "{{url_for('static', filename='me.jpg')}}" alt = "no logo" style="width:200px;height:200px;">
+      </div>
+    <div class="columntwo">
+      <p class="about_q">Motivation for this Project:</p>
+      <p class="about_a">Avid reader</p>
+      <p class="about_a">Interest in language learning for native and non-native English speakers</p>
+      <p class="about_a">Expertise in human and computer language processing</p>
+      <p class="about_a">Currently works with universities to help them better serve diverse students</p>
+      <p class="about_q">Education:</p>
+      <p class="about_a">B.A., linguistics; minors in cognitive science and computer science, Cornell University</p>
+      <p class="about_q">Location:</p>
+      <p class="about_a">Washington, D.C.</p>
+      <p class="about_q">Favorite Wikipedia article topic:</p>
+      <p class="about_a"><a href="https://en.wikipedia.org/wiki/List_of_Google_April_Fools%27_Day_jokes">List of Google April Fool's Day Jokes</a></p>
+      <p class="about_q">Contact:</p>
+      <p class="about_a"><a href="mailto: juliab@berkeley.edu">juliab@berkeley.edu</a></p>
+      <p class="about_a"><a href="https://www.linkedin.com/in/juliabuffinton/">https://www.linkedin.com/in/juliabuffinton/</a></p>
+      </div>
+    </div>
+  </div>
+<div class="row_cell">
+  <h2>Saurav Datta</h2>
+  <div class="row">
+    <div class="columnpic">
+      <img src = "{{url_for('static', filename='Saurav.jpg')}}" alt = "no logo" style="width:200px;height:250px;">
+      </div>
+    <div class="columntwo">
+      <p class="about_q">Motivation for this Project:</p>
+      <p class="about_a">Making sense out of textual data to help underserved communities</p>
+      <p class="about_a">Interested in building NLP systems from source to sense</p>
+      <p class="about_q">Education:</p>
+      <p class="about_a">B.tech. in Information Technology</p>
+      <p class="about_q">Location:</p>
+      <p class="about_a">California</p>
+      <p class="about_q">Favorite Wikipedia article topic:</p>
+      <p class="about_a"><a href="https://en.wikipedia.org/wiki/Word-sense_disambiguation">Word-sense disambiguation</a></p>
+      <p class="about_q">Contact:</p>
+      <p class="about_a"><a href="mailto: sauravdatta@berkeley.edu">sauravdatta@berkeley.edu</a></p>
+      <p class="about_a"><a href="https://www.linkedin.com/in/dattasaurav/">https://www.linkedin.com/in/dattasaurav/</a></p>
+      </div>
+    </div>
+  </div>
+<div class="row_cell">
+  <h2>Joanna Huang</h2>
+  <div class="row">
+    <div class="columnpic">
+      <img src = "{{url_for('static', filename='Nic.jpg')}}" alt = "no logo" style="width:200px;height:250px;">
+      </div>
+    <div class="columntwo">
+      <p class="about_q">Motivation for this Project:</p>
+      <p class="about_a">Empowering independent student learners by contributing to the open source learning community</p>
+      <p class="about_a">Interest in building text analytics/NLP systems in the context of customer support and understanding</p>
+      <p class="about_q">Education:</p>
+      <p class="about_a">B.A., Communication, Boston College</p>
+      <p class="about_q">Location:</p>
+      <p class="about_a">San Francisco, CA</p>
+      <p class="about_q">Favorite Wikipedia article topic:</p>
+      <p class="about_a"><a href="https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors">List of Crayola crayon colors</a></p>
+      <p class="about_q">Contact:</p>
+      <p class="about_a"><a href="mailto: joanna.huang@berkeley.edu">joanna.huang@berkeley.edu</a></p>
+      <p class="about_a"><a href="https://www.linkedin.com/in/itsjoannahuang/">https://www.linkedin.com/in/itsjoannahuang/</a></p>
+      </div>
+    </div>
+  </div>
+  <div class = "row_cell">
+    <h2>Kathryn Plath</h2>
+  <div class="row">
+    <div class="columnpic">
+      <img src = "{{url_for('static', filename='Plath pic.jpg')}}" alt = "no logo" style="width:160px;height:200px;">
+      </div>
+    <div class="columntwo">
+      <p class="about_q">Motivation for this Project:</p>
+      <p class="about_a">Improving educational equity and access to education around the world</p>
+      <p class="about_a">Interest in using data science to find barriers to education and issues impacting persistence for
+        students</p>
+      <p class="about_q">Education:</p>
+      <p class="about_a">B.S., Chemistry, Santa Clara University</p>
+      <p class="about_a">Ph.D., Chemistry, University of Colorado - Boulder</p>
+      <p class="about_q">Location:</p>
+      <p class="about_a">Denver, CO</p>
+      <p class="about_q">Favorite Wikipedia article topic:</p>
+      <p class="about_a"><a href="https://en.wikipedia.org/wiki/Apollo_program">Apollo Program</a></p>
+      <p class="about_q">Contact:</p>
+      <p class="about_a"><a href="mailto: kplath@berkeley.edu">kplath@berkeley.edu</a></p>
+      <p class="about_a"><a href="https://www.linkedin.com/in/katyplath/">https://www.linkedin.com/in/katyplath/</a></p>
+      </div>
+  </div>
+</div>

@@ -1,0 +1,57 @@
+<!doctype html>
+<title>Methodology</title>
+<link rel=stylesheet type=text/css href="{{ url_for('static', filename='style.css') }}">
+<div class=page>
+  <h1>The Details of our Project</h1>
+</div>
+<div class="centered">
+  <p> AutoQ is the first free web app with automatically generated reading comprehension questions targeted to English language
+    learners (ELLs). Our product uses machine learning and natural language processing techniques to create a vast and topical
+    collection of multiple-choice questions that mimic the format of common English-language exam (like TOEFL and IELTS).
+  </p>
+  <p>We believe that there aren’t sufficient resources for ELLs who are studying for these tests, particularly when it comes to
+    the depth of practice opportunities available to them. Skill development and increased performance on the exams can be
+    achieved simply with more practice, which is why we want to democratize this resource, so all ELLs have the potential to
+    succeed.
+  </p>
+  <p>We currently offer almost 100,000 [95,663] practice questions on over 10,000 [10,302] Wikipedia articles. Our collection
+    is growing, check back for more.
+  </p>
+</div>
+<div class=centered>
+<div class=resources>
+  <h3>Some Resources</h3>
+<p class="black">To learn more: <a href="https://github.com/juliabuffinton/w210-capstone-qg">
+    https://github.com/juliabuffinton/w210-capstone-qg</a></p>
+<p class="black">Approaches we use have been adapted from the following sources:</p>
+<p class="black">Question Generation: <a href = "https://github.com/drewserles/GenerationQ">
+  https://github.com/drewserles/GenerationQ</a></p>
+<p class="black">Question Answering: <a href="https://github.com/facebookresearch/DrQA">
+  https://github.com/facebookresearch/DrQA</a></p>
+<p class="black">Automatic Evaluation: <a href="https://github.com/tylin/coco-caption">
+  https://github.com/tylin/coco-caption</a></p>
+<p class="black">Topic Modeling:</p>
+<h3>Contact Us</h3>
+<p class="black">Contact us at :</p>
+<p>Julia: <a href = "mailto: juliab@berkeley.edu">juliab@berkeley.edu</a></p>
+<p>Saurav: <a href = "mailto: sauravdatta@berkeley.edu">sauravdatta@berkeley.edu</a></p>
+<p>Joanna: <a href = "mailto: joanna.huang@berkeley.edu">joanna.huang@berkeley.edu</a></p>
+<p>Kathryn: <a href = "mailto: kplath@berkeley.edu">kplath@berekeley.edu</a></p>
+</div>
+</div>
+<br>
+<div class = "home_page">
+<form name = "home_page" action = "/" />
+  <input type="submit" value = "Back to home page" method = "get"/>
+</form>
+</div>
+<div class = "topic_send">
+<form name = "topic_select" action = "/topic_select" />
+  <input type="submit" value = "Head to Topic Selection" method = "get"/>
+</form>
+</div>
+
+<!-- <embed src="{{url_for('static', filename='Final Presentation.pdf')}}" width="90%" height="600"  -->
+ <!-- type="application/pdf"> -->
+
+ <iframe src="{{url_for('static', filename='Final Presentation.pdf')}}" style="width:1500px; height:700px;" frameborder="0"></iframe>
